@@ -1,7 +1,0 @@
-Badminton: 0
-Cricket: 1
-Tennis: 2
-Swimming: 3
-Soccer: 4
-Wrestling: 5
-Karate: 6
