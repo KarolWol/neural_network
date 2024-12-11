@@ -1,0 +1,2672 @@
+Epoch 1/30
+------------------------------------------------------------
+CustomModel - Train Loss: 1.7319, Train Acc: 0.3133
+CustomModel - Val Loss: 1.3393, Val Acc: 0.4727
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7920, Train Acc: 0.7538
+ResNet50 - Val Loss: 0.4550, Val Acc: 0.8633
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8172, Train Acc: 0.7157
+VGG11 - Val Loss: 0.5339, Val Acc: 0.8208
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0879, Train Acc: 0.6599
+GoogLeNet - Val Loss: 0.7278, Val Acc: 0.7716
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8344, Train Acc: 0.7032
+AlexNet - Val Loss: 0.5587, Val Acc: 0.8111
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.8990, Train Acc: 0.7260
+DenseNet121 - Val Loss: 0.5264, Val Acc: 0.8633
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/30
+------------------------------------------------------------
+CustomModel - Train Loss: 1.2378, Train Acc: 0.5449
+CustomModel - Val Loss: 0.9737, Val Acc: 0.6634
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4368, Train Acc: 0.8626
+ResNet50 - Val Loss: 0.3756, Val Acc: 0.8834
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5882, Train Acc: 0.7978
+VGG11 - Val Loss: 0.4771, Val Acc: 0.8335
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6669, Train Acc: 0.7880
+GoogLeNet - Val Loss: 0.5961, Val Acc: 0.8177
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5750, Train Acc: 0.7970
+AlexNet - Val Loss: 0.5272, Val Acc: 0.8262
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4670, Train Acc: 0.8680
+DenseNet121 - Val Loss: 0.4094, Val Acc: 0.8785
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.9243, Train Acc: 0.6812
+CustomModel - Val Loss: 0.8114, Val Acc: 0.7248
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3762, Train Acc: 0.8736
+ResNet50 - Val Loss: 0.3924, Val Acc: 0.8682
+VGG11 - Train Loss: 0.5570, Train Acc: 0.8064
+VGG11 - Val Loss: 0.4265, Val Acc: 0.8512
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5760, Train Acc: 0.8160
+GoogLeNet - Val Loss: 0.5049, Val Acc: 0.8341
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4935, Train Acc: 0.8265
+AlexNet - Val Loss: 0.4746, Val Acc: 0.8463
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3716, Train Acc: 0.8874
+DenseNet121 - Val Loss: 0.3605, Val Acc: 0.8785
+Epoch 4/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.6809, Train Acc: 0.7704
+CustomModel - Val Loss: 0.7868, Val Acc: 0.7515
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3316, Train Acc: 0.8926
+ResNet50 - Val Loss: 0.3465, Val Acc: 0.8852
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5211, Train Acc: 0.8123
+VGG11 - Val Loss: 0.4254, Val Acc: 0.8615
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5356, Train Acc: 0.8250
+GoogLeNet - Val Loss: 0.4843, Val Acc: 0.8402
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4552, Train Acc: 0.8351
+AlexNet - Val Loss: 0.4409, Val Acc: 0.8512
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3259, Train Acc: 0.9000
+DenseNet121 - Val Loss: 0.3169, Val Acc: 0.9016
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4723, Train Acc: 0.8494
+CustomModel - Val Loss: 0.7888, Val Acc: 0.7382
+ResNet50 - Train Loss: 0.3125, Train Acc: 0.8991
+ResNet50 - Val Loss: 0.2949, Val Acc: 0.9022
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5004, Train Acc: 0.8233
+VGG11 - Val Loss: 0.3870, Val Acc: 0.8694
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4917, Train Acc: 0.8377
+GoogLeNet - Val Loss: 0.4699, Val Acc: 0.8457
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4288, Train Acc: 0.8500
+AlexNet - Val Loss: 0.4330, Val Acc: 0.8536
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2993, Train Acc: 0.9073
+DenseNet121 - Val Loss: 0.3303, Val Acc: 0.8900
+Epoch 6/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3852, Train Acc: 0.8713
+CustomModel - Val Loss: 0.6824, Val Acc: 0.7904
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2843, Train Acc: 0.9081
+ResNet50 - Val Loss: 0.2937, Val Acc: 0.8913
+VGG11 - Train Loss: 0.4909, Train Acc: 0.8242
+VGG11 - Val Loss: 0.3829, Val Acc: 0.8742
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4827, Train Acc: 0.8338
+GoogLeNet - Val Loss: 0.4403, Val Acc: 0.8536
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3920, Train Acc: 0.8611
+AlexNet - Val Loss: 0.4001, Val Acc: 0.8706
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2761, Train Acc: 0.9170
+DenseNet121 - Val Loss: 0.2937, Val Acc: 0.9046
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 7/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3060, Train Acc: 0.9073
+CustomModel - Val Loss: 0.6960, Val Acc: 0.7947
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2745, Train Acc: 0.9075
+ResNet50 - Val Loss: 0.3043, Val Acc: 0.8864
+VGG11 - Train Loss: 0.4775, Train Acc: 0.8265
+VGG11 - Val Loss: 0.3794, Val Acc: 0.8755
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4676, Train Acc: 0.8421
+GoogLeNet - Val Loss: 0.4390, Val Acc: 0.8572
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3895, Train Acc: 0.8582
+AlexNet - Val Loss: 0.4123, Val Acc: 0.8657
+DenseNet121 - Train Loss: 0.2629, Train Acc: 0.9186
+DenseNet121 - Val Loss: 0.2876, Val Acc: 0.8973
+Epoch 8/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2542, Train Acc: 0.9189
+CustomModel - Val Loss: 0.8116, Val Acc: 0.7752
+ResNet50 - Train Loss: 0.2601, Train Acc: 0.9120
+ResNet50 - Val Loss: 0.3072, Val Acc: 0.8913
+ResNet50 model has not improved for 3 epochs. Early stopping.
+VGG11 - Train Loss: 0.4835, Train Acc: 0.8292
+VGG11 - Val Loss: 0.3775, Val Acc: 0.8791
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4403, Train Acc: 0.8505
+GoogLeNet - Val Loss: 0.4336, Val Acc: 0.8505
+AlexNet - Train Loss: 0.3633, Train Acc: 0.8710
+AlexNet - Val Loss: 0.4013, Val Acc: 0.8755
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2417, Train Acc: 0.9233
+DenseNet121 - Val Loss: 0.2924, Val Acc: 0.8925
+Epoch 9/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2185, Train Acc: 0.9316
+CustomModel - Val Loss: 0.7928, Val Acc: 0.7989
+CustomModel - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4849, Train Acc: 0.8291
+VGG11 - Val Loss: 0.3954, Val Acc: 0.8694
+GoogLeNet - Train Loss: 0.4381, Train Acc: 0.8508
+GoogLeNet - Val Loss: 0.4195, Val Acc: 0.8597
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3493, Train Acc: 0.8711
+AlexNet - Val Loss: 0.4115, Val Acc: 0.8682
+DenseNet121 - Train Loss: 0.2387, Train Acc: 0.9230
+DenseNet121 - Val Loss: 0.2767, Val Acc: 0.8973
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+Epoch 10/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1897, Train Acc: 0.9410
+CustomModel - Val Loss: 0.8980, Val Acc: 0.7831
+VGG11 - Train Loss: 0.4656, Train Acc: 0.8318
+VGG11 - Val Loss: 0.3756, Val Acc: 0.8827
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4141, Train Acc: 0.8566
+GoogLeNet - Val Loss: 0.4138, Val Acc: 0.8536
+AlexNet - Train Loss: 0.3344, Train Acc: 0.8810
+AlexNet - Val Loss: 0.4080, Val Acc: 0.8730
+Epoch 11/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1853, Train Acc: 0.9410
+CustomModel - Val Loss: 1.0152, Val Acc: 0.7710
+VGG11 - Train Loss: 0.4486, Train Acc: 0.8421
+VGG11 - Val Loss: 0.3468, Val Acc: 0.8858
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4144, Train Acc: 0.8567
+GoogLeNet - Val Loss: 0.4017, Val Acc: 0.8627
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3347, Train Acc: 0.8771
+AlexNet - Val Loss: 0.4031, Val Acc: 0.8761
+AlexNet - model saved with improved validation accuracy.
+Epoch 12/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1917, Train Acc: 0.9438
+CustomModel - Val Loss: 0.9821, Val Acc: 0.7746
+CustomModel model has not improved for 3 epochs. Early stopping.
+VGG11 - Train Loss: 0.4676, Train Acc: 0.8353
+VGG11 - Val Loss: 0.3502, Val Acc: 0.8876
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4089, Train Acc: 0.8553
+GoogLeNet - Val Loss: 0.4097, Val Acc: 0.8591
+AlexNet - Train Loss: 0.3267, Train Acc: 0.8803
+AlexNet - Val Loss: 0.4062, Val Acc: 0.8718
+Epoch 13/30
+------------------------------------------------------------
+VGG11 - Train Loss: 0.4497, Train Acc: 0.8367
+VGG11 - Val Loss: 0.3798, Val Acc: 0.8742
+GoogLeNet - Train Loss: 0.4145, Train Acc: 0.8538
+GoogLeNet - Val Loss: 0.3994, Val Acc: 0.8609
+AlexNet - Train Loss: 0.3311, Train Acc: 0.8819
+AlexNet - Val Loss: 0.4229, Val Acc: 0.8712
+Epoch 14/30
+------------------------------------------------------------
+VGG11 - Train Loss: 0.4480, Train Acc: 0.8423
+VGG11 - Val Loss: 0.3656, Val Acc: 0.8846
+GoogLeNet - Train Loss: 0.4240, Train Acc: 0.8514
+GoogLeNet - Val Loss: 0.3823, Val Acc: 0.8748
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3242, Train Acc: 0.8806
+AlexNet - Val Loss: 0.4563, Val Acc: 0.8633
+AlexNet model has not improved for 3 epochs. Early stopping.
+Epoch 15/30
+------------------------------------------------------------
+VGG11 - Train Loss: 0.4552, Train Acc: 0.8374
+VGG11 - Val Loss: 0.3561, Val Acc: 0.8846
+VGG11 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.3979, Train Acc: 0.8599
+GoogLeNet - Val Loss: 0.4001, Val Acc: 0.8578
+Epoch 16/30
+------------------------------------------------------------
+GoogLeNet - Train Loss: 0.3969, Train Acc: 0.8670
+GoogLeNet - Val Loss: 0.4025, Val Acc: 0.8566
+Epoch 17/30
+------------------------------------------------------------
+GoogLeNet - Train Loss: 0.4023, Train Acc: 0.8625
+GoogLeNet - Val Loss: 0.3767, Val Acc: 0.8700
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+
+
+F1 Score for CustomModel: 0.7906
+F1 Score for ResNet50: 0.9019
+F1 Score for VGG11: 0.8699
+F1 Score for GoogLeNet: 0.8829
+F1 Score for AlexNet: 0.8794
+F1 Score for DenseNet121: 0.9029
+
+
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/30
+------------------------------------------------------------
+CustomModel - Train Loss: 1.6666, Train Acc: 0.3407
+CustomModel - Val Loss: 1.2949, Val Acc: 0.5188
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7793, Train Acc: 0.7488
+ResNet50 - Val Loss: 0.4516, Val Acc: 0.8700
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8225, Train Acc: 0.7060
+VGG11 - Val Loss: 0.5407, Val Acc: 0.8190
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0992, Train Acc: 0.6539
+GoogLeNet - Val Loss: 0.7146, Val Acc: 0.7983
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8371, Train Acc: 0.7081
+AlexNet - Val Loss: 0.5937, Val Acc: 0.8056
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.8824, Train Acc: 0.7321
+DenseNet121 - Val Loss: 0.5252, Val Acc: 0.8426
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/30
+------------------------------------------------------------
+CustomModel - Train Loss: 1.3093, Train Acc: 0.5138
+CustomModel - Val Loss: 1.1176, Val Acc: 0.5948
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4492, Train Acc: 0.8518
+ResNet50 - Val Loss: 0.3536, Val Acc: 0.8925
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5958, Train Acc: 0.7888
+VGG11 - Val Loss: 0.4833, Val Acc: 0.8408
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6833, Train Acc: 0.7804
+GoogLeNet - Val Loss: 0.5744, Val Acc: 0.8262
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5689, Train Acc: 0.7997
+AlexNet - Val Loss: 0.5152, Val Acc: 0.8305
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4701, Train Acc: 0.8631
+DenseNet121 - Val Loss: 0.3929, Val Acc: 0.8840
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/30
+------------------------------------------------------------
+CustomModel - Train Loss: 1.0662, Train Acc: 0.6242
+CustomModel - Val Loss: 0.9275, Val Acc: 0.6792
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3630, Train Acc: 0.8804
+ResNet50 - Val Loss: 0.3076, Val Acc: 0.9034
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5468, Train Acc: 0.8038
+VGG11 - Val Loss: 0.4588, Val Acc: 0.8341
+GoogLeNet - Train Loss: 0.5783, Train Acc: 0.8123
+GoogLeNet - Val Loss: 0.5157, Val Acc: 0.8426
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5145, Train Acc: 0.8120
+AlexNet - Val Loss: 0.5096, Val Acc: 0.8341
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3905, Train Acc: 0.8789
+DenseNet121 - Val Loss: 0.3506, Val Acc: 0.8876
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 4/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.8420, Train Acc: 0.7075
+CustomModel - Val Loss: 0.8925, Val Acc: 0.6968
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3341, Train Acc: 0.8932
+ResNet50 - Val Loss: 0.3131, Val Acc: 0.8955
+VGG11 - Train Loss: 0.5197, Train Acc: 0.8180
+VGG11 - Val Loss: 0.4380, Val Acc: 0.8542
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5342, Train Acc: 0.8213
+GoogLeNet - Val Loss: 0.4840, Val Acc: 0.8463
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4448, Train Acc: 0.8426
+AlexNet - Val Loss: 0.4471, Val Acc: 0.8463
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3403, Train Acc: 0.8953
+DenseNet121 - Val Loss: 0.3462, Val Acc: 0.8864
+Epoch 5/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.6647, Train Acc: 0.7756
+CustomModel - Val Loss: 0.7698, Val Acc: 0.7406
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3205, Train Acc: 0.8895
+ResNet50 - Val Loss: 0.2884, Val Acc: 0.9064
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4925, Train Acc: 0.8254
+VGG11 - Val Loss: 0.4179, Val Acc: 0.8578
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4927, Train Acc: 0.8324
+GoogLeNet - Val Loss: 0.4618, Val Acc: 0.8499
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4202, Train Acc: 0.8449
+AlexNet - Val Loss: 0.4358, Val Acc: 0.8645
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3034, Train Acc: 0.9040
+DenseNet121 - Val Loss: 0.3157, Val Acc: 0.8955
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 6/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.5171, Train Acc: 0.8283
+CustomModel - Val Loss: 0.7656, Val Acc: 0.7716
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2879, Train Acc: 0.9017
+ResNet50 - Val Loss: 0.3397, Val Acc: 0.8882
+VGG11 - Train Loss: 0.4877, Train Acc: 0.8268
+VGG11 - Val Loss: 0.4074, Val Acc: 0.8639
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4942, Train Acc: 0.8332
+GoogLeNet - Val Loss: 0.4557, Val Acc: 0.8536
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3936, Train Acc: 0.8597
+AlexNet - Val Loss: 0.4210, Val Acc: 0.8670
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2875, Train Acc: 0.9084
+DenseNet121 - Val Loss: 0.2991, Val Acc: 0.9004
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 7/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3770, Train Acc: 0.8769
+CustomModel - Val Loss: 0.7571, Val Acc: 0.7947
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2896, Train Acc: 0.9003
+ResNet50 - Val Loss: 0.3023, Val Acc: 0.8991
+VGG11 - Train Loss: 0.4822, Train Acc: 0.8248
+VGG11 - Val Loss: 0.4108, Val Acc: 0.8633
+GoogLeNet - Train Loss: 0.4655, Train Acc: 0.8433
+GoogLeNet - Val Loss: 0.4238, Val Acc: 0.8584
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3910, Train Acc: 0.8631
+AlexNet - Val Loss: 0.4637, Val Acc: 0.8481
+DenseNet121 - Train Loss: 0.2591, Train Acc: 0.9214
+DenseNet121 - Val Loss: 0.2917, Val Acc: 0.9028
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 8/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3202, Train Acc: 0.8924
+CustomModel - Val Loss: 0.7728, Val Acc: 0.7922
+ResNet50 - Train Loss: 0.2628, Train Acc: 0.9102
+ResNet50 - Val Loss: 0.2841, Val Acc: 0.9101
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4767, Train Acc: 0.8318
+VGG11 - Val Loss: 0.4142, Val Acc: 0.8742
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4459, Train Acc: 0.8458
+GoogLeNet - Val Loss: 0.4377, Val Acc: 0.8554
+AlexNet - Train Loss: 0.3712, Train Acc: 0.8689
+AlexNet - Val Loss: 0.5153, Val Acc: 0.8396
+DenseNet121 - Train Loss: 0.2444, Train Acc: 0.9242
+DenseNet121 - Val Loss: 0.2845, Val Acc: 0.9119
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 9/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2557, Train Acc: 0.9176
+CustomModel - Val Loss: 0.7647, Val Acc: 0.8013
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2483, Train Acc: 0.9176
+ResNet50 - Val Loss: 0.2728, Val Acc: 0.9107
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4493, Train Acc: 0.8379
+VGG11 - Val Loss: 0.4564, Val Acc: 0.8505
+GoogLeNet - Train Loss: 0.4401, Train Acc: 0.8488
+GoogLeNet - Val Loss: 0.4045, Val Acc: 0.8676
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3631, Train Acc: 0.8672
+AlexNet - Val Loss: 0.4278, Val Acc: 0.8742
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2400, Train Acc: 0.9252
+DenseNet121 - Val Loss: 0.2723, Val Acc: 0.9137
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 10/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2148, Train Acc: 0.9321
+CustomModel - Val Loss: 0.7991, Val Acc: 0.8098
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2325, Train Acc: 0.9210
+ResNet50 - Val Loss: 0.2713, Val Acc: 0.9125
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4706, Train Acc: 0.8338
+VGG11 - Val Loss: 0.3798, Val Acc: 0.8809
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4312, Train Acc: 0.8499
+GoogLeNet - Val Loss: 0.3956, Val Acc: 0.8676
+AlexNet - Train Loss: 0.3367, Train Acc: 0.8792
+AlexNet - Val Loss: 0.4286, Val Acc: 0.8615
+DenseNet121 - Train Loss: 0.2248, Train Acc: 0.9281
+DenseNet121 - Val Loss: 0.2844, Val Acc: 0.9101
+Epoch 11/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2002, Train Acc: 0.9377
+CustomModel - Val Loss: 0.9046, Val Acc: 0.7959
+ResNet50 - Train Loss: 0.2424, Train Acc: 0.9172
+ResNet50 - Val Loss: 0.2859, Val Acc: 0.9064
+VGG11 - Train Loss: 0.4478, Train Acc: 0.8421
+VGG11 - Val Loss: 0.4098, Val Acc: 0.8688
+GoogLeNet - Train Loss: 0.4200, Train Acc: 0.8538
+GoogLeNet - Val Loss: 0.4054, Val Acc: 0.8633
+AlexNet - Train Loss: 0.3452, Train Acc: 0.8736
+AlexNet - Val Loss: 0.3815, Val Acc: 0.8937
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2186, Train Acc: 0.9275
+DenseNet121 - Val Loss: 0.2565, Val Acc: 0.9149
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 12/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1866, Train Acc: 0.9474
+CustomModel - Val Loss: 0.8042, Val Acc: 0.8050
+ResNet50 - Train Loss: 0.2320, Train Acc: 0.9187
+ResNet50 - Val Loss: 0.2592, Val Acc: 0.9107
+VGG11 - Train Loss: 0.4508, Train Acc: 0.8417
+VGG11 - Val Loss: 0.3851, Val Acc: 0.8773
+GoogLeNet - Train Loss: 0.4256, Train Acc: 0.8493
+GoogLeNet - Val Loss: 0.3873, Val Acc: 0.8676
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3288, Train Acc: 0.8854
+AlexNet - Val Loss: 0.4275, Val Acc: 0.8761
+DenseNet121 - Train Loss: 0.2135, Train Acc: 0.9286
+DenseNet121 - Val Loss: 0.2583, Val Acc: 0.9222
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 13/30
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1747, Train Acc: 0.9468
+CustomModel - Val Loss: 0.8251, Val Acc: 0.8044
+CustomModel model has not improved for 3 epochs. Early stopping.
+ResNet50 - Train Loss: 0.2169, Train Acc: 0.9251
+ResNet50 - Val Loss: 0.2542, Val Acc: 0.9143
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4324, Train Acc: 0.8488
+VGG11 - Val Loss: 0.3965, Val Acc: 0.8773
+VGG11 model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3333, Train Acc: 0.8803
+AlexNet - Val Loss: 0.3957, Val Acc: 0.8840
+DenseNet121 - Train Loss: 0.2057, Train Acc: 0.9344
+DenseNet121 - Val Loss: 0.2436, Val Acc: 0.9198
+Epoch 14/30
+------------------------------------------------------------
+ResNet50 - Train Loss: 0.2099, Train Acc: 0.9284
+ResNet50 - Val Loss: 0.2887, Val Acc: 0.9034
+AlexNet - Train Loss: 0.3275, Train Acc: 0.8836
+AlexNet - Val Loss: 0.4217, Val Acc: 0.8809
+AlexNet model has not improved for 3 epochs. Early stopping.
+DenseNet121 - Train Loss: 0.1977, Train Acc: 0.9354
+DenseNet121 - Val Loss: 0.2621, Val Acc: 0.9143
+Epoch 15/30
+------------------------------------------------------------
+ResNet50 - Train Loss: 0.2137, Train Acc: 0.9257
+ResNet50 - Val Loss: 0.2491, Val Acc: 0.9204
+ResNet50 - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2033, Train Acc: 0.9328
+DenseNet121 - Val Loss: 0.2410, Val Acc: 0.9186
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+Epoch 16/30
+------------------------------------------------------------
+ResNet50 - Train Loss: 0.1933, Train Acc: 0.9339
+ResNet50 - Val Loss: 0.2385, Val Acc: 0.9247
+ResNet50 - model saved with improved validation accuracy.
+Epoch 17/30
+------------------------------------------------------------
+ResNet50 - Train Loss: 0.1911, Train Acc: 0.9371
+ResNet50 - Val Loss: 0.2326, Val Acc: 0.9277
+ResNet50 - model saved with improved validation accuracy.
+Epoch 18/30
+------------------------------------------------------------
+ResNet50 - Train Loss: 0.1913, Train Acc: 0.9379
+ResNet50 - Val Loss: 0.2395, Val Acc: 0.9162
+Epoch 19/30
+------------------------------------------------------------
+ResNet50 - Train Loss: 0.1710, Train Acc: 0.9409
+ResNet50 - Val Loss: 0.2560, Val Acc: 0.9241
+Epoch 20/30
+------------------------------------------------------------
+ResNet50 - Train Loss: 0.1927, Train Acc: 0.9333
+ResNet50 - Val Loss: 0.2404, Val Acc: 0.9222
+ResNet50 model has not improved for 3 epochs. Early stopping.
+
+
+F1 Score for CustomModel: 0.7813
+F1 Score for ResNet50: 0.9213
+F1 Score for VGG11: 0.8773
+F1 Score for GoogLeNet: 0.8677
+F1 Score for AlexNet: 0.8788
+F1 Score for DenseNet121: 0.9161
+
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.6741, Train Acc: 0.3416
+CustomModel - Val Loss: 1.2993, Val Acc: 0.5316
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7539, Train Acc: 0.7654
+ResNet50 - Val Loss: 0.4892, Val Acc: 0.8384
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8150, Train Acc: 0.7122
+VGG11 - Val Loss: 0.5571, Val Acc: 0.8281
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0980, Train Acc: 0.6569
+GoogLeNet - Val Loss: 0.7263, Val Acc: 0.7831
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8344, Train Acc: 0.6988
+AlexNet - Val Loss: 0.5746, Val Acc: 0.7953
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.9054, Train Acc: 0.7210
+DenseNet121 - Val Loss: 0.5445, Val Acc: 0.8499
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.2538, Train Acc: 0.5413
+CustomModel - Val Loss: 1.0692, Val Acc: 0.6239
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4294, Train Acc: 0.8645
+ResNet50 - Val Loss: 0.4096, Val Acc: 0.8694
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.6032, Train Acc: 0.7879
+VGG11 - Val Loss: 0.4646, Val Acc: 0.8420
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6770, Train Acc: 0.7861
+GoogLeNet - Val Loss: 0.5837, Val Acc: 0.8165
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5694, Train Acc: 0.7996
+AlexNet - Val Loss: 0.4922, Val Acc: 0.8354
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4749, Train Acc: 0.8579
+DenseNet121 - Val Loss: 0.4034, Val Acc: 0.8724
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.0216, Train Acc: 0.6371
+CustomModel - Val Loss: 0.9407, Val Acc: 0.6634
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3638, Train Acc: 0.8789
+ResNet50 - Val Loss: 0.3644, Val Acc: 0.8834
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5467, Train Acc: 0.8046
+VGG11 - Val Loss: 0.4177, Val Acc: 0.8676
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5869, Train Acc: 0.8090
+GoogLeNet - Val Loss: 0.5045, Val Acc: 0.8335
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4899, Train Acc: 0.8275
+AlexNet - Val Loss: 0.5900, Val Acc: 0.7910
+DenseNet121 - Train Loss: 0.3787, Train Acc: 0.8857
+DenseNet121 - Val Loss: 0.3690, Val Acc: 0.8846
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 4/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.8214, Train Acc: 0.7195
+CustomModel - Val Loss: 0.8276, Val Acc: 0.7248
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3180, Train Acc: 0.8920
+ResNet50 - Val Loss: 0.3528, Val Acc: 0.8821
+VGG11 - Train Loss: 0.5137, Train Acc: 0.8216
+VGG11 - Val Loss: 0.4085, Val Acc: 0.8651
+GoogLeNet - Train Loss: 0.5320, Train Acc: 0.8281
+GoogLeNet - Val Loss: 0.5015, Val Acc: 0.8378
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4367, Train Acc: 0.8522
+AlexNet - Val Loss: 0.4607, Val Acc: 0.8451
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3363, Train Acc: 0.8990
+DenseNet121 - Val Loss: 0.3281, Val Acc: 0.8961
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.6456, Train Acc: 0.7850
+CustomModel - Val Loss: 0.7794, Val Acc: 0.7552
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3011, Train Acc: 0.8985
+ResNet50 - Val Loss: 0.3239, Val Acc: 0.8846
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5121, Train Acc: 0.8207
+VGG11 - Val Loss: 0.4837, Val Acc: 0.8299
+GoogLeNet - Train Loss: 0.5019, Train Acc: 0.8310
+GoogLeNet - Val Loss: 0.4602, Val Acc: 0.8426
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4147, Train Acc: 0.8537
+AlexNet - Val Loss: 0.4574, Val Acc: 0.8475
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3081, Train Acc: 0.9070
+DenseNet121 - Val Loss: 0.3370, Val Acc: 0.8864
+Epoch 6/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4770, Train Acc: 0.8455
+CustomModel - Val Loss: 0.7278, Val Acc: 0.7795
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2795, Train Acc: 0.9050
+ResNet50 - Val Loss: 0.3126, Val Acc: 0.8961
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5023, Train Acc: 0.8221
+VGG11 - Val Loss: 0.4087, Val Acc: 0.8633
+VGG11 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4779, Train Acc: 0.8335
+GoogLeNet - Val Loss: 0.4380, Val Acc: 0.8530
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3787, Train Acc: 0.8645
+AlexNet - Val Loss: 0.4167, Val Acc: 0.8621
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2817, Train Acc: 0.9117
+DenseNet121 - Val Loss: 0.3030, Val Acc: 0.9010
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 7/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3529, Train Acc: 0.8844
+CustomModel - Val Loss: 0.7584, Val Acc: 0.7880
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2555, Train Acc: 0.9143
+ResNet50 - Val Loss: 0.3347, Val Acc: 0.8785
+GoogLeNet - Train Loss: 0.4590, Train Acc: 0.8455
+GoogLeNet - Val Loss: 0.4270, Val Acc: 0.8530
+AlexNet - Train Loss: 0.3836, Train Acc: 0.8601
+AlexNet - Val Loss: 0.4480, Val Acc: 0.8542
+DenseNet121 - Train Loss: 0.2708, Train Acc: 0.9132
+DenseNet121 - Val Loss: 0.2945, Val Acc: 0.9058
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 8/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2770, Train Acc: 0.9085
+CustomModel - Val Loss: 0.7514, Val Acc: 0.8013
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2569, Train Acc: 0.9114
+ResNet50 - Val Loss: 0.3429, Val Acc: 0.8919
+GoogLeNet - Train Loss: 0.4501, Train Acc: 0.8496
+GoogLeNet - Val Loss: 0.4251, Val Acc: 0.8524
+AlexNet - Train Loss: 0.3598, Train Acc: 0.8724
+AlexNet - Val Loss: 0.4380, Val Acc: 0.8530
+DenseNet121 - Train Loss: 0.2448, Train Acc: 0.9242
+DenseNet121 - Val Loss: 0.2861, Val Acc: 0.9070
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 9/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2326, Train Acc: 0.9296
+CustomModel - Val Loss: 0.8335, Val Acc: 0.8044
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2545, Train Acc: 0.9157
+ResNet50 - Val Loss: 0.3109, Val Acc: 0.8937
+ResNet50 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4432, Train Acc: 0.8502
+GoogLeNet - Val Loss: 0.4075, Val Acc: 0.8584
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3696, Train Acc: 0.8711
+AlexNet - Val Loss: 0.4049, Val Acc: 0.8700
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2429, Train Acc: 0.9227
+DenseNet121 - Val Loss: 0.2788, Val Acc: 0.9034
+Epoch 10/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2067, Train Acc: 0.9331
+CustomModel - Val Loss: 0.8209, Val Acc: 0.7977
+GoogLeNet - Train Loss: 0.4246, Train Acc: 0.8559
+GoogLeNet - Val Loss: 0.4083, Val Acc: 0.8530
+AlexNet - Train Loss: 0.3551, Train Acc: 0.8711
+AlexNet - Val Loss: 0.4038, Val Acc: 0.8651
+DenseNet121 - Train Loss: 0.2360, Train Acc: 0.9201
+DenseNet121 - Val Loss: 0.2856, Val Acc: 0.9028
+Epoch 11/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2015, Train Acc: 0.9363
+CustomModel - Val Loss: 0.8387, Val Acc: 0.8080
+CustomModel - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4206, Train Acc: 0.8529
+GoogLeNet - Val Loss: 0.3989, Val Acc: 0.8603
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3226, Train Acc: 0.8803
+AlexNet - Val Loss: 0.4337, Val Acc: 0.8682
+DenseNet121 - Train Loss: 0.2204, Train Acc: 0.9322
+DenseNet121 - Val Loss: 0.2846, Val Acc: 0.8985
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+Epoch 12/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1790, Train Acc: 0.9441
+CustomModel - Val Loss: 0.8632, Val Acc: 0.8080
+GoogLeNet - Train Loss: 0.4183, Train Acc: 0.8561
+GoogLeNet - Val Loss: 0.4109, Val Acc: 0.8578
+AlexNet - Train Loss: 0.3274, Train Acc: 0.8821
+AlexNet - Val Loss: 0.3740, Val Acc: 0.8773
+AlexNet - model saved with improved validation accuracy.
+Epoch 13/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1628, Train Acc: 0.9523
+CustomModel - Val Loss: 0.9263, Val Acc: 0.8135
+CustomModel - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4084, Train Acc: 0.8555
+GoogLeNet - Val Loss: 0.3755, Val Acc: 0.8663
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3227, Train Acc: 0.8842
+AlexNet - Val Loss: 0.4058, Val Acc: 0.8742
+Epoch 14/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1334, Train Acc: 0.9609
+CustomModel - Val Loss: 1.0198, Val Acc: 0.7965
+GoogLeNet - Train Loss: 0.4089, Train Acc: 0.8596
+GoogLeNet - Val Loss: 0.3848, Val Acc: 0.8591
+AlexNet - Train Loss: 0.3246, Train Acc: 0.8830
+AlexNet - Val Loss: 0.3903, Val Acc: 0.8761
+Epoch 15/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1235, Train Acc: 0.9651
+CustomModel - Val Loss: 0.9831, Val Acc: 0.8104
+GoogLeNet - Train Loss: 0.4072, Train Acc: 0.8569
+GoogLeNet - Val Loss: 0.3764, Val Acc: 0.8657
+AlexNet - Train Loss: 0.3069, Train Acc: 0.8866
+AlexNet - Val Loss: 0.4170, Val Acc: 0.8730
+AlexNet model has not improved for 3 epochs. Early stopping.
+Epoch 16/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1227, Train Acc: 0.9605
+CustomModel - Val Loss: 0.9123, Val Acc: 0.7995
+CustomModel model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.3895, Train Acc: 0.8643
+GoogLeNet - Val Loss: 0.3720, Val Acc: 0.8651
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+Epoch 17/40
+------------------------------------------------------------
+Epoch 18/40
+------------------------------------------------------------
+Epoch 19/40
+------------------------------------------------------------
+Epoch 20/40
+------------------------------------------------------------
+Epoch 21/40
+------------------------------------------------------------
+Epoch 22/40
+------------------------------------------------------------
+Epoch 23/40
+------------------------------------------------------------
+Epoch 24/40
+------------------------------------------------------------
+Epoch 25/40
+------------------------------------------------------------
+Epoch 26/40
+------------------------------------------------------------
+Epoch 27/40
+------------------------------------------------------------
+Epoch 28/40
+------------------------------------------------------------
+Epoch 29/40
+------------------------------------------------------------
+Epoch 30/40
+------------------------------------------------------------
+Epoch 31/40
+------------------------------------------------------------
+Epoch 32/40
+------------------------------------------------------------
+Epoch 33/40
+------------------------------------------------------------
+Epoch 34/40
+------------------------------------------------------------
+Epoch 35/40
+------------------------------------------------------------
+Epoch 36/40
+------------------------------------------------------------
+Epoch 37/40
+------------------------------------------------------------
+Epoch 38/40
+------------------------------------------------------------
+Epoch 39/40
+------------------------------------------------------------
+Epoch 40/40
+------------------------------------------------------------
+
+
+F1 Score for CustomModel: 0.7952
+F1 Score for ResNet50: 0.9001
+F1 Score for VGG11: 0.8557
+F1 Score for GoogLeNet: 0.8796
+F1 Score for AlexNet: 0.8792
+F1 Score for DenseNet121: 0.9128
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.9288, Train Acc: 0.1772
+CustomModel - Val Loss: 1.7868, Val Acc: 0.2874
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7712, Train Acc: 0.7602
+ResNet50 - Val Loss: 0.4717, Val Acc: 0.8542
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8326, Train Acc: 0.7139
+VGG11 - Val Loss: 0.5470, Val Acc: 0.8086
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0965, Train Acc: 0.6592
+GoogLeNet - Val Loss: 0.6823, Val Acc: 0.7977
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8391, Train Acc: 0.7061
+AlexNet - Val Loss: 0.5354, Val Acc: 0.8196
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.9093, Train Acc: 0.7200
+DenseNet121 - Val Loss: 0.4848, Val Acc: 0.8718
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.6612, Train Acc: 0.3176
+CustomModel - Val Loss: 1.4078, Val Acc: 0.4520
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4407, Train Acc: 0.8596
+ResNet50 - Val Loss: 0.3615, Val Acc: 0.8815
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.6084, Train Acc: 0.7819
+VGG11 - Val Loss: 0.4395, Val Acc: 0.8609
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6794, Train Acc: 0.7850
+GoogLeNet - Val Loss: 0.5389, Val Acc: 0.8366
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5858, Train Acc: 0.7967
+AlexNet - Val Loss: 0.5171, Val Acc: 0.8147
+DenseNet121 - Train Loss: 0.4816, Train Acc: 0.8601
+DenseNet121 - Val Loss: 0.3612, Val Acc: 0.9034
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.4372, Train Acc: 0.4428
+CustomModel - Val Loss: 1.2727, Val Acc: 0.5194
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3709, Train Acc: 0.8789
+ResNet50 - Val Loss: 0.3330, Val Acc: 0.8852
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5508, Train Acc: 0.8009
+VGG11 - Val Loss: 0.3998, Val Acc: 0.8627
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5793, Train Acc: 0.8104
+GoogLeNet - Val Loss: 0.5098, Val Acc: 0.8378
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5004, Train Acc: 0.8231
+AlexNet - Val Loss: 0.4602, Val Acc: 0.8426
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3967, Train Acc: 0.8810
+DenseNet121 - Val Loss: 0.3178, Val Acc: 0.9028
+Epoch 4/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.2997, Train Acc: 0.5286
+CustomModel - Val Loss: 1.1703, Val Acc: 0.5747
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3312, Train Acc: 0.8891
+ResNet50 - Val Loss: 0.3034, Val Acc: 0.8937
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5245, Train Acc: 0.8125
+VGG11 - Val Loss: 0.3999, Val Acc: 0.8712
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5303, Train Acc: 0.8227
+GoogLeNet - Val Loss: 0.4557, Val Acc: 0.8487
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4673, Train Acc: 0.8295
+AlexNet - Val Loss: 0.4275, Val Acc: 0.8512
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3412, Train Acc: 0.8917
+DenseNet121 - Val Loss: 0.2979, Val Acc: 0.9089
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.1164, Train Acc: 0.5952
+CustomModel - Val Loss: 0.9944, Val Acc: 0.6567
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3236, Train Acc: 0.8927
+ResNet50 - Val Loss: 0.2810, Val Acc: 0.9077
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5171, Train Acc: 0.8134
+VGG11 - Val Loss: 0.3664, Val Acc: 0.8670
+GoogLeNet - Train Loss: 0.5103, Train Acc: 0.8253
+GoogLeNet - Val Loss: 0.4339, Val Acc: 0.8591
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4382, Train Acc: 0.8409
+AlexNet - Val Loss: 0.4191, Val Acc: 0.8597
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3202, Train Acc: 0.8980
+DenseNet121 - Val Loss: 0.2609, Val Acc: 0.9247
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 6/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.8880, Train Acc: 0.6891
+CustomModel - Val Loss: 0.8043, Val Acc: 0.7266
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2944, Train Acc: 0.9003
+ResNet50 - Val Loss: 0.2540, Val Acc: 0.9168
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4859, Train Acc: 0.8260
+VGG11 - Val Loss: 0.3675, Val Acc: 0.8736
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4794, Train Acc: 0.8382
+GoogLeNet - Val Loss: 0.4312, Val Acc: 0.8512
+AlexNet - Train Loss: 0.3950, Train Acc: 0.8610
+AlexNet - Val Loss: 0.3885, Val Acc: 0.8724
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2905, Train Acc: 0.9067
+DenseNet121 - Val Loss: 0.2533, Val Acc: 0.9204
+Epoch 7/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.7259, Train Acc: 0.7523
+CustomModel - Val Loss: 0.8673, Val Acc: 0.6920
+ResNet50 - Train Loss: 0.2736, Train Acc: 0.9085
+ResNet50 - Val Loss: 0.2937, Val Acc: 0.8949
+VGG11 - Train Loss: 0.4934, Train Acc: 0.8251
+VGG11 - Val Loss: 0.3673, Val Acc: 0.8663
+GoogLeNet - Train Loss: 0.4752, Train Acc: 0.8351
+GoogLeNet - Val Loss: 0.4102, Val Acc: 0.8584
+AlexNet - Train Loss: 0.3890, Train Acc: 0.8622
+AlexNet - Val Loss: 0.3698, Val Acc: 0.8761
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2818, Train Acc: 0.9105
+DenseNet121 - Val Loss: 0.2436, Val Acc: 0.9210
+Epoch 8/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.5676, Train Acc: 0.8057
+CustomModel - Val Loss: 0.7049, Val Acc: 0.7704
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2635, Train Acc: 0.9129
+ResNet50 - Val Loss: 0.2729, Val Acc: 0.9058
+VGG11 - Train Loss: 0.4891, Train Acc: 0.8280
+VGG11 - Val Loss: 0.3532, Val Acc: 0.8706
+GoogLeNet - Train Loss: 0.4597, Train Acc: 0.8442
+GoogLeNet - Val Loss: 0.4094, Val Acc: 0.8603
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3659, Train Acc: 0.8713
+AlexNet - Val Loss: 0.3760, Val Acc: 0.8742
+DenseNet121 - Train Loss: 0.2561, Train Acc: 0.9172
+DenseNet121 - Val Loss: 0.2555, Val Acc: 0.9192
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+Epoch 9/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4397, Train Acc: 0.8520
+CustomModel - Val Loss: 0.7340, Val Acc: 0.7801
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2542, Train Acc: 0.9117
+ResNet50 - Val Loss: 0.2498, Val Acc: 0.9174
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4783, Train Acc: 0.8315
+VGG11 - Val Loss: 0.3340, Val Acc: 0.8864
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4429, Train Acc: 0.8455
+GoogLeNet - Val Loss: 0.4030, Val Acc: 0.8591
+AlexNet - Train Loss: 0.3417, Train Acc: 0.8789
+AlexNet - Val Loss: 0.4182, Val Acc: 0.8621
+Epoch 10/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3755, Train Acc: 0.8711
+CustomModel - Val Loss: 0.6647, Val Acc: 0.8019
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2429, Train Acc: 0.9190
+ResNet50 - Val Loss: 0.2697, Val Acc: 0.9107
+VGG11 - Train Loss: 0.4668, Train Acc: 0.8335
+VGG11 - Val Loss: 0.3346, Val Acc: 0.8785
+GoogLeNet - Train Loss: 0.4340, Train Acc: 0.8514
+GoogLeNet - Val Loss: 0.4073, Val Acc: 0.8524
+AlexNet - Train Loss: 0.3393, Train Acc: 0.8789
+AlexNet - Val Loss: 0.3687, Val Acc: 0.8827
+AlexNet - model saved with improved validation accuracy.
+Epoch 11/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3191, Train Acc: 0.8930
+CustomModel - Val Loss: 0.6859, Val Acc: 0.8038
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2419, Train Acc: 0.9155
+ResNet50 - Val Loss: 0.2328, Val Acc: 0.9247
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4965, Train Acc: 0.8298
+VGG11 - Val Loss: 0.3222, Val Acc: 0.8888
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4334, Train Acc: 0.8461
+GoogLeNet - Val Loss: 0.3867, Val Acc: 0.8718
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3469, Train Acc: 0.8731
+AlexNet - Val Loss: 0.3481, Val Acc: 0.8913
+AlexNet - model saved with improved validation accuracy.
+Epoch 12/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2805, Train Acc: 0.9082
+CustomModel - Val Loss: 0.6685, Val Acc: 0.8159
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2331, Train Acc: 0.9214
+ResNet50 - Val Loss: 0.2386, Val Acc: 0.9174
+VGG11 - Train Loss: 0.4741, Train Acc: 0.8316
+VGG11 - Val Loss: 0.3414, Val Acc: 0.8827
+GoogLeNet - Train Loss: 0.4235, Train Acc: 0.8540
+GoogLeNet - Val Loss: 0.3778, Val Acc: 0.8645
+AlexNet - Train Loss: 0.3347, Train Acc: 0.8862
+AlexNet - Val Loss: 0.3915, Val Acc: 0.8694
+Epoch 13/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2315, Train Acc: 0.9225
+CustomModel - Val Loss: 0.8181, Val Acc: 0.7837
+ResNet50 - Train Loss: 0.2271, Train Acc: 0.9186
+ResNet50 - Val Loss: 0.2678, Val Acc: 0.9058
+VGG11 - Train Loss: 0.4827, Train Acc: 0.8310
+VGG11 - Val Loss: 0.3494, Val Acc: 0.8791
+GoogLeNet - Train Loss: 0.4227, Train Acc: 0.8552
+GoogLeNet - Val Loss: 0.3709, Val Acc: 0.8694
+AlexNet - Train Loss: 0.3245, Train Acc: 0.8825
+AlexNet - Val Loss: 0.4238, Val Acc: 0.8651
+Epoch 14/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2161, Train Acc: 0.9303
+CustomModel - Val Loss: 0.6529, Val Acc: 0.8129
+ResNet50 - Train Loss: 0.2120, Train Acc: 0.9277
+ResNet50 - Val Loss: 0.3176, Val Acc: 0.8888
+ResNet50 model has not improved for 3 epochs. Early stopping.
+VGG11 - Train Loss: 0.4550, Train Acc: 0.8392
+VGG11 - Val Loss: 0.3251, Val Acc: 0.8785
+VGG11 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4163, Train Acc: 0.8523
+GoogLeNet - Val Loss: 0.3707, Val Acc: 0.8706
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3308, Train Acc: 0.8851
+AlexNet - Val Loss: 0.3678, Val Acc: 0.8864
+AlexNet model has not improved for 3 epochs. Early stopping.
+Epoch 15/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2132, Train Acc: 0.9275
+CustomModel - Val Loss: 0.6876, Val Acc: 0.8123
+CustomModel model has not improved for 3 epochs. Early stopping.
+Epoch 16/40
+------------------------------------------------------------
+Epoch 17/40
+------------------------------------------------------------
+Epoch 18/40
+------------------------------------------------------------
+Epoch 19/40
+------------------------------------------------------------
+Epoch 20/40
+------------------------------------------------------------
+Epoch 21/40
+------------------------------------------------------------
+Epoch 22/40
+------------------------------------------------------------
+Epoch 23/40
+------------------------------------------------------------
+Epoch 24/40
+------------------------------------------------------------
+Epoch 25/40
+------------------------------------------------------------
+Epoch 26/40
+------------------------------------------------------------
+Epoch 27/40
+------------------------------------------------------------
+Epoch 28/40
+------------------------------------------------------------
+Epoch 29/40
+------------------------------------------------------------
+Epoch 30/40
+------------------------------------------------------------
+Epoch 31/40
+------------------------------------------------------------
+Epoch 32/40
+------------------------------------------------------------
+Epoch 33/40
+------------------------------------------------------------
+Epoch 34/40
+------------------------------------------------------------
+Epoch 35/40
+------------------------------------------------------------
+Epoch 36/40
+------------------------------------------------------------
+Epoch 37/40
+------------------------------------------------------------
+Epoch 38/40
+------------------------------------------------------------
+Epoch 39/40
+------------------------------------------------------------
+Epoch 40/40
+------------------------------------------------------------
+
+
+F1 Score for CustomModel: 0.7871
+F1 Score for ResNet50: 0.9113
+F1 Score for VGG11: 0.8820
+F1 Score for GoogLeNet: 0.8660
+F1 Score for AlexNet: 0.8771
+F1 Score for DenseNet121: 0.9051
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.6960, Train Acc: 0.3118
+CustomModel - Val Loss: 1.4594, Val Acc: 0.4532
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7508, Train Acc: 0.7745
+ResNet50 - Val Loss: 0.4426, Val Acc: 0.8542
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8254, Train Acc: 0.7107
+VGG11 - Val Loss: 0.5493, Val Acc: 0.8177
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0676, Train Acc: 0.6649
+GoogLeNet - Val Loss: 0.6771, Val Acc: 0.8111
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8295, Train Acc: 0.7092
+AlexNet - Val Loss: 0.5896, Val Acc: 0.7959
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.8762, Train Acc: 0.7399
+DenseNet121 - Val Loss: 0.5013, Val Acc: 0.8530
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.3976, Train Acc: 0.4771
+CustomModel - Val Loss: 1.2065, Val Acc: 0.5632
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4329, Train Acc: 0.8646
+ResNet50 - Val Loss: 0.3687, Val Acc: 0.8736
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5975, Train Acc: 0.7841
+VGG11 - Val Loss: 0.4884, Val Acc: 0.8384
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6639, Train Acc: 0.7917
+GoogLeNet - Val Loss: 0.5679, Val Acc: 0.8299
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5741, Train Acc: 0.7953
+AlexNet - Val Loss: 0.5487, Val Acc: 0.8111
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4659, Train Acc: 0.8670
+DenseNet121 - Val Loss: 0.3937, Val Acc: 0.8803
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.0862, Train Acc: 0.6115
+CustomModel - Val Loss: 1.0308, Val Acc: 0.6434
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3531, Train Acc: 0.8869
+ResNet50 - Val Loss: 0.3343, Val Acc: 0.8791
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5509, Train Acc: 0.8026
+VGG11 - Val Loss: 0.4612, Val Acc: 0.8420
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5830, Train Acc: 0.8101
+GoogLeNet - Val Loss: 0.4902, Val Acc: 0.8451
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5059, Train Acc: 0.8184
+AlexNet - Val Loss: 0.4684, Val Acc: 0.8457
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3822, Train Acc: 0.8816
+DenseNet121 - Val Loss: 0.3448, Val Acc: 0.8894
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 4/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.8433, Train Acc: 0.7130
+CustomModel - Val Loss: 0.8963, Val Acc: 0.7035
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3292, Train Acc: 0.8924
+ResNet50 - Val Loss: 0.3413, Val Acc: 0.8791
+VGG11 - Train Loss: 0.5208, Train Acc: 0.8136
+VGG11 - Val Loss: 0.4139, Val Acc: 0.8566
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5326, Train Acc: 0.8243
+GoogLeNet - Val Loss: 0.4934, Val Acc: 0.8335
+AlexNet - Train Loss: 0.4675, Train Acc: 0.8368
+AlexNet - Val Loss: 0.4623, Val Acc: 0.8469
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3298, Train Acc: 0.8967
+DenseNet121 - Val Loss: 0.3076, Val Acc: 0.8943
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.5759, Train Acc: 0.8120
+CustomModel - Val Loss: 0.9030, Val Acc: 0.7211
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3009, Train Acc: 0.8980
+ResNet50 - Val Loss: 0.2900, Val Acc: 0.8937
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5048, Train Acc: 0.8230
+VGG11 - Val Loss: 0.4106, Val Acc: 0.8566
+GoogLeNet - Train Loss: 0.5002, Train Acc: 0.8327
+GoogLeNet - Val Loss: 0.4308, Val Acc: 0.8584
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4053, Train Acc: 0.8526
+AlexNet - Val Loss: 0.4515, Val Acc: 0.8524
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3072, Train Acc: 0.9038
+DenseNet121 - Val Loss: 0.3055, Val Acc: 0.8925
+Epoch 6/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4215, Train Acc: 0.8648
+CustomModel - Val Loss: 0.8288, Val Acc: 0.7509
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2894, Train Acc: 0.9049
+ResNet50 - Val Loss: 0.3419, Val Acc: 0.8864
+VGG11 - Train Loss: 0.4859, Train Acc: 0.8275
+VGG11 - Val Loss: 0.4347, Val Acc: 0.8512
+GoogLeNet - Train Loss: 0.4846, Train Acc: 0.8395
+GoogLeNet - Val Loss: 0.4196, Val Acc: 0.8627
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3858, Train Acc: 0.8646
+AlexNet - Val Loss: 0.4319, Val Acc: 0.8603
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2862, Train Acc: 0.9097
+DenseNet121 - Val Loss: 0.2786, Val Acc: 0.9089
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 7/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3085, Train Acc: 0.9005
+CustomModel - Val Loss: 0.9710, Val Acc: 0.7491
+ResNet50 - Train Loss: 0.2732, Train Acc: 0.9085
+ResNet50 - Val Loss: 0.2743, Val Acc: 0.8991
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4860, Train Acc: 0.8254
+VGG11 - Val Loss: 0.3859, Val Acc: 0.8712
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4759, Train Acc: 0.8371
+GoogLeNet - Val Loss: 0.4181, Val Acc: 0.8621
+AlexNet - Train Loss: 0.3795, Train Acc: 0.8608
+AlexNet - Val Loss: 0.4551, Val Acc: 0.8615
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2695, Train Acc: 0.9137
+DenseNet121 - Val Loss: 0.2748, Val Acc: 0.9131
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 8/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2342, Train Acc: 0.9306
+CustomModel - Val Loss: 0.9987, Val Acc: 0.7570
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2522, Train Acc: 0.9169
+ResNet50 - Val Loss: 0.2742, Val Acc: 0.8985
+VGG11 - Train Loss: 0.4799, Train Acc: 0.8318
+VGG11 - Val Loss: 0.3953, Val Acc: 0.8651
+GoogLeNet - Train Loss: 0.4602, Train Acc: 0.8430
+GoogLeNet - Val Loss: 0.4034, Val Acc: 0.8682
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3511, Train Acc: 0.8721
+AlexNet - Val Loss: 0.4741, Val Acc: 0.8499
+DenseNet121 - Train Loss: 0.2556, Train Acc: 0.9169
+DenseNet121 - Val Loss: 0.2723, Val Acc: 0.9119
+Epoch 9/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2123, Train Acc: 0.9357
+CustomModel - Val Loss: 1.0174, Val Acc: 0.7594
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2564, Train Acc: 0.9179
+ResNet50 - Val Loss: 0.2585, Val Acc: 0.8979
+VGG11 - Train Loss: 0.4676, Train Acc: 0.8353
+VGG11 - Val Loss: 0.3734, Val Acc: 0.8700
+GoogLeNet - Train Loss: 0.4484, Train Acc: 0.8455
+GoogLeNet - Val Loss: 0.4024, Val Acc: 0.8597
+AlexNet - Train Loss: 0.3442, Train Acc: 0.8821
+AlexNet - Val Loss: 0.4817, Val Acc: 0.8566
+DenseNet121 - Train Loss: 0.2442, Train Acc: 0.9195
+DenseNet121 - Val Loss: 0.2490, Val Acc: 0.9174
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 10/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1687, Train Acc: 0.9462
+CustomModel - Val Loss: 1.0831, Val Acc: 0.7582
+ResNet50 - Train Loss: 0.2352, Train Acc: 0.9195
+ResNet50 - Val Loss: 0.2865, Val Acc: 0.8985
+ResNet50 model has not improved for 3 epochs. Early stopping.
+VGG11 - Train Loss: 0.4538, Train Acc: 0.8406
+VGG11 - Val Loss: 0.3583, Val Acc: 0.8730
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4398, Train Acc: 0.8473
+GoogLeNet - Val Loss: 0.3924, Val Acc: 0.8627
+AlexNet - Train Loss: 0.3483, Train Acc: 0.8775
+AlexNet - Val Loss: 0.4284, Val Acc: 0.8694
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2337, Train Acc: 0.9245
+DenseNet121 - Val Loss: 0.2580, Val Acc: 0.9149
+Epoch 11/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1697, Train Acc: 0.9488
+CustomModel - Val Loss: 1.0070, Val Acc: 0.7661
+CustomModel - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4534, Train Acc: 0.8370
+VGG11 - Val Loss: 0.3792, Val Acc: 0.8597
+GoogLeNet - Train Loss: 0.4174, Train Acc: 0.8544
+GoogLeNet - Val Loss: 0.3871, Val Acc: 0.8615
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3329, Train Acc: 0.8772
+AlexNet - Val Loss: 0.4727, Val Acc: 0.8536
+DenseNet121 - Train Loss: 0.2282, Train Acc: 0.9271
+DenseNet121 - Val Loss: 0.2418, Val Acc: 0.9107
+Epoch 12/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1475, Train Acc: 0.9568
+CustomModel - Val Loss: 1.0807, Val Acc: 0.7679
+CustomModel - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4700, Train Acc: 0.8389
+VGG11 - Val Loss: 0.3624, Val Acc: 0.8785
+VGG11 - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3494, Train Acc: 0.8742
+AlexNet - Val Loss: 0.4516, Val Acc: 0.8670
+DenseNet121 - Train Loss: 0.2166, Train Acc: 0.9280
+DenseNet121 - Val Loss: 0.2355, Val Acc: 0.9198
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 13/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1236, Train Acc: 0.9616
+CustomModel - Val Loss: 1.1382, Val Acc: 0.7734
+CustomModel - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4478, Train Acc: 0.8453
+VGG11 - Val Loss: 0.3668, Val Acc: 0.8761
+AlexNet - Train Loss: 0.3309, Train Acc: 0.8771
+AlexNet - Val Loss: 0.4405, Val Acc: 0.8657
+AlexNet model has not improved for 3 epochs. Early stopping.
+DenseNet121 - Train Loss: 0.2208, Train Acc: 0.9263
+DenseNet121 - Val Loss: 0.2479, Val Acc: 0.9198
+Epoch 14/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1288, Train Acc: 0.9596
+CustomModel - Val Loss: 1.1727, Val Acc: 0.7655
+VGG11 - Train Loss: 0.4496, Train Acc: 0.8433
+VGG11 - Val Loss: 0.3528, Val Acc: 0.8821
+VGG11 - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2116, Train Acc: 0.9312
+DenseNet121 - Val Loss: 0.2345, Val Acc: 0.9216
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 15/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1321, Train Acc: 0.9614
+CustomModel - Val Loss: 1.1301, Val Acc: 0.7606
+VGG11 - Train Loss: 0.4400, Train Acc: 0.8476
+VGG11 - Val Loss: 0.3411, Val Acc: 0.8779
+DenseNet121 - Train Loss: 0.2010, Train Acc: 0.9321
+DenseNet121 - Val Loss: 0.2380, Val Acc: 0.9198
+Epoch 16/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1277, Train Acc: 0.9593
+CustomModel - Val Loss: 1.1499, Val Acc: 0.7649
+CustomModel model has not improved for 3 epochs. Early stopping.
+VGG11 - Train Loss: 0.4477, Train Acc: 0.8444
+VGG11 - Val Loss: 0.3490, Val Acc: 0.8797
+DenseNet121 - Train Loss: 0.1994, Train Acc: 0.9365
+DenseNet121 - Val Loss: 0.2347, Val Acc: 0.9192
+Epoch 17/40
+------------------------------------------------------------
+VGG11 - Train Loss: 0.4380, Train Acc: 0.8529
+VGG11 - Val Loss: 0.3528, Val Acc: 0.8761
+VGG11 model has not improved for 3 epochs. Early stopping.
+DenseNet121 - Train Loss: 0.2015, Train Acc: 0.9309
+DenseNet121 - Val Loss: 0.2272, Val Acc: 0.9216
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+Epoch 18/40
+------------------------------------------------------------
+Epoch 19/40
+------------------------------------------------------------
+Epoch 20/40
+------------------------------------------------------------
+Epoch 21/40
+------------------------------------------------------------
+Epoch 22/40
+------------------------------------------------------------
+Epoch 23/40
+------------------------------------------------------------
+Epoch 24/40
+------------------------------------------------------------
+Epoch 25/40
+------------------------------------------------------------
+Epoch 26/40
+------------------------------------------------------------
+Epoch 27/40
+------------------------------------------------------------
+Epoch 28/40
+------------------------------------------------------------
+Epoch 29/40
+------------------------------------------------------------
+Epoch 30/40
+------------------------------------------------------------
+Epoch 31/40
+------------------------------------------------------------
+Epoch 32/40
+------------------------------------------------------------
+Epoch 33/40
+------------------------------------------------------------
+Epoch 34/40
+------------------------------------------------------------
+Epoch 35/40
+------------------------------------------------------------
+Epoch 36/40
+------------------------------------------------------------
+Epoch 37/40
+------------------------------------------------------------
+Epoch 38/40
+------------------------------------------------------------
+Epoch 39/40
+------------------------------------------------------------
+Epoch 40/40
+------------------------------------------------------------
+
+F1 Score for CustomModel: 0.7791
+F1 Score for ResNet50: 0.9016
+F1 Score for VGG11: 0.8868
+F1 Score for GoogLeNet: 0.8690
+F1 Score for AlexNet: 0.8760
+F1 Score for DenseNet121: 0.9190
+
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.7193, Train Acc: 0.3071
+CustomModel - Val Loss: 1.3658, Val Acc: 0.4842
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7588, Train Acc: 0.7623
+ResNet50 - Val Loss: 0.4540, Val Acc: 0.8584
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8187, Train Acc: 0.7092
+VGG11 - Val Loss: 0.5274, Val Acc: 0.8329
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0847, Train Acc: 0.6687
+GoogLeNet - Val Loss: 0.7331, Val Acc: 0.7783
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8648, Train Acc: 0.6997
+AlexNet - Val Loss: 0.5217, Val Acc: 0.8226
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.9347, Train Acc: 0.7063
+DenseNet121 - Val Loss: 0.5175, Val Acc: 0.8554
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.3832, Train Acc: 0.4881
+CustomModel - Val Loss: 1.1185, Val Acc: 0.6027
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4485, Train Acc: 0.8541
+ResNet50 - Val Loss: 0.3659, Val Acc: 0.8827
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5932, Train Acc: 0.7947
+VGG11 - Val Loss: 0.4668, Val Acc: 0.8433
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6720, Train Acc: 0.7912
+GoogLeNet - Val Loss: 0.5637, Val Acc: 0.8196
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5727, Train Acc: 0.7990
+AlexNet - Val Loss: 0.4776, Val Acc: 0.8354
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4855, Train Acc: 0.8605
+DenseNet121 - Val Loss: 0.4138, Val Acc: 0.8791
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.2005, Train Acc: 0.5710
+CustomModel - Val Loss: 1.0174, Val Acc: 0.6349
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3703, Train Acc: 0.8816
+ResNet50 - Val Loss: 0.3317, Val Acc: 0.8967
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5428, Train Acc: 0.8040
+VGG11 - Val Loss: 0.4368, Val Acc: 0.8524
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5877, Train Acc: 0.8061
+GoogLeNet - Val Loss: 0.4955, Val Acc: 0.8426
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5102, Train Acc: 0.8174
+AlexNet - Val Loss: 0.4518, Val Acc: 0.8518
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3951, Train Acc: 0.8835
+DenseNet121 - Val Loss: 0.3581, Val Acc: 0.8821
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 4/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.0794, Train Acc: 0.6216
+CustomModel - Val Loss: 0.9516, Val Acc: 0.6646
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3311, Train Acc: 0.8886
+ResNet50 - Val Loss: 0.3062, Val Acc: 0.9004
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5143, Train Acc: 0.8120
+VGG11 - Val Loss: 0.4182, Val Acc: 0.8615
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5391, Train Acc: 0.8256
+GoogLeNet - Val Loss: 0.4713, Val Acc: 0.8426
+AlexNet - Train Loss: 0.4545, Train Acc: 0.8400
+AlexNet - Val Loss: 0.4765, Val Acc: 0.8384
+DenseNet121 - Train Loss: 0.3405, Train Acc: 0.8985
+DenseNet121 - Val Loss: 0.3034, Val Acc: 0.9119
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.9562, Train Acc: 0.6687
+CustomModel - Val Loss: 0.8633, Val Acc: 0.7060
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3107, Train Acc: 0.8993
+ResNet50 - Val Loss: 0.3070, Val Acc: 0.9004
+VGG11 - Train Loss: 0.5023, Train Acc: 0.8210
+VGG11 - Val Loss: 0.3860, Val Acc: 0.8676
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5062, Train Acc: 0.8304
+GoogLeNet - Val Loss: 0.4337, Val Acc: 0.8584
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4272, Train Acc: 0.8529
+AlexNet - Val Loss: 0.4032, Val Acc: 0.8578
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3109, Train Acc: 0.9005
+DenseNet121 - Val Loss: 0.2961, Val Acc: 0.9058
+Epoch 6/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.8225, Train Acc: 0.7262
+CustomModel - Val Loss: 0.7890, Val Acc: 0.7248
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2832, Train Acc: 0.9024
+ResNet50 - Val Loss: 0.3097, Val Acc: 0.8991
+VGG11 - Train Loss: 0.4777, Train Acc: 0.8295
+VGG11 - Val Loss: 0.3938, Val Acc: 0.8621
+GoogLeNet - Train Loss: 0.4903, Train Acc: 0.8379
+GoogLeNet - Val Loss: 0.4275, Val Acc: 0.8566
+AlexNet - Train Loss: 0.3859, Train Acc: 0.8622
+AlexNet - Val Loss: 0.4174, Val Acc: 0.8530
+DenseNet121 - Train Loss: 0.2806, Train Acc: 0.9105
+DenseNet121 - Val Loss: 0.2912, Val Acc: 0.9058
+Epoch 7/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.6973, Train Acc: 0.7678
+CustomModel - Val Loss: 0.7260, Val Acc: 0.7497
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2788, Train Acc: 0.9062
+ResNet50 - Val Loss: 0.3064, Val Acc: 0.8967
+ResNet50 model has not improved for 3 epochs. Early stopping.
+VGG11 - Train Loss: 0.4911, Train Acc: 0.8259
+VGG11 - Val Loss: 0.3762, Val Acc: 0.8706
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4629, Train Acc: 0.8435
+GoogLeNet - Val Loss: 0.4094, Val Acc: 0.8670
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3939, Train Acc: 0.8578
+AlexNet - Val Loss: 0.3888, Val Acc: 0.8663
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2706, Train Acc: 0.9141
+DenseNet121 - Val Loss: 0.2675, Val Acc: 0.9180
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 8/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.5907, Train Acc: 0.7981
+CustomModel - Val Loss: 0.6798, Val Acc: 0.7758
+CustomModel - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4793, Train Acc: 0.8292
+VGG11 - Val Loss: 0.3833, Val Acc: 0.8706
+GoogLeNet - Train Loss: 0.4471, Train Acc: 0.8477
+GoogLeNet - Val Loss: 0.4043, Val Acc: 0.8651
+AlexNet - Train Loss: 0.3776, Train Acc: 0.8667
+AlexNet - Val Loss: 0.4087, Val Acc: 0.8657
+DenseNet121 - Train Loss: 0.2620, Train Acc: 0.9134
+DenseNet121 - Val Loss: 0.2674, Val Acc: 0.9137
+Epoch 9/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4761, Train Acc: 0.8353
+CustomModel - Val Loss: 0.6903, Val Acc: 0.8013
+CustomModel - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4715, Train Acc: 0.8321
+VGG11 - Val Loss: 0.3427, Val Acc: 0.8852
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4490, Train Acc: 0.8371
+GoogLeNet - Val Loss: 0.4071, Val Acc: 0.8657
+AlexNet - Train Loss: 0.3596, Train Acc: 0.8762
+AlexNet - Val Loss: 0.3767, Val Acc: 0.8791
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2437, Train Acc: 0.9213
+DenseNet121 - Val Loss: 0.2718, Val Acc: 0.9095
+Epoch 10/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3917, Train Acc: 0.8672
+CustomModel - Val Loss: 0.6726, Val Acc: 0.7953
+VGG11 - Train Loss: 0.4614, Train Acc: 0.8316
+VGG11 - Val Loss: 0.3484, Val Acc: 0.8809
+GoogLeNet - Train Loss: 0.4360, Train Acc: 0.8517
+GoogLeNet - Val Loss: 0.4079, Val Acc: 0.8603
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3431, Train Acc: 0.8784
+AlexNet - Val Loss: 0.3710, Val Acc: 0.8821
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2277, Train Acc: 0.9292
+DenseNet121 - Val Loss: 0.2472, Val Acc: 0.9174
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+Epoch 11/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3435, Train Acc: 0.8889
+CustomModel - Val Loss: 0.7182, Val Acc: 0.7892
+VGG11 - Train Loss: 0.4655, Train Acc: 0.8344
+VGG11 - Val Loss: 0.3656, Val Acc: 0.8712
+AlexNet - Train Loss: 0.3493, Train Acc: 0.8737
+AlexNet - Val Loss: 0.3796, Val Acc: 0.8736
+Epoch 12/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2942, Train Acc: 0.9009
+CustomModel - Val Loss: 0.7390, Val Acc: 0.8050
+CustomModel - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4501, Train Acc: 0.8426
+VGG11 - Val Loss: 0.3354, Val Acc: 0.8834
+VGG11 model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3398, Train Acc: 0.8845
+AlexNet - Val Loss: 0.5253, Val Acc: 0.8275
+Epoch 13/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2639, Train Acc: 0.9103
+CustomModel - Val Loss: 0.7219, Val Acc: 0.8019
+AlexNet - Train Loss: 0.3272, Train Acc: 0.8801
+AlexNet - Val Loss: 0.3770, Val Acc: 0.8821
+AlexNet model has not improved for 3 epochs. Early stopping.
+Epoch 14/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2750, Train Acc: 0.9108
+CustomModel - Val Loss: 0.6844, Val Acc: 0.8232
+CustomModel - model saved with improved validation accuracy.
+Epoch 15/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2390, Train Acc: 0.9242
+CustomModel - Val Loss: 0.7525, Val Acc: 0.8062
+Epoch 16/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2093, Train Acc: 0.9283
+CustomModel - Val Loss: 0.7719, Val Acc: 0.8068
+Epoch 17/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1946, Train Acc: 0.9351
+CustomModel - Val Loss: 0.8074, Val Acc: 0.7995
+CustomModel model has not improved for 3 epochs. Early stopping.
+
+
+
+
+F1 Score for CustomModel: 0.7857
+F1 Score for ResNet50: 0.8987
+F1 Score for VGG11: 0.8701
+F1 Score for GoogLeNet: 0.8631
+F1 Score for AlexNet: 0.8765
+F1 Score for DenseNet121: 0.9069
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.7961, Train Acc: 0.2884
+CustomModel - Val Loss: 1.5274, Val Acc: 0.4095
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7710, Train Acc: 0.7598
+ResNet50 - Val Loss: 0.4630, Val Acc: 0.8572
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8284, Train Acc: 0.7111
+VGG11 - Val Loss: 0.5516, Val Acc: 0.8086
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0810, Train Acc: 0.6613
+GoogLeNet - Val Loss: 0.7044, Val Acc: 0.7947
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8276, Train Acc: 0.7165
+AlexNet - Val Loss: 0.5476, Val Acc: 0.8038
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.9232, Train Acc: 0.7124
+DenseNet121 - Val Loss: 0.5086, Val Acc: 0.8621
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.4205, Train Acc: 0.4616
+CustomModel - Val Loss: 1.1137, Val Acc: 0.5644
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4224, Train Acc: 0.8660
+ResNet50 - Val Loss: 0.3771, Val Acc: 0.8785
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.6020, Train Acc: 0.7923
+VGG11 - Val Loss: 0.4757, Val Acc: 0.8378
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6758, Train Acc: 0.7897
+GoogLeNet - Val Loss: 0.5848, Val Acc: 0.8250
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5521, Train Acc: 0.8096
+AlexNet - Val Loss: 0.4620, Val Acc: 0.8433
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4800, Train Acc: 0.8639
+DenseNet121 - Val Loss: 0.3855, Val Acc: 0.8888
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.1364, Train Acc: 0.5937
+CustomModel - Val Loss: 1.1527, Val Acc: 0.5668
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3671, Train Acc: 0.8778
+ResNet50 - Val Loss: 0.3675, Val Acc: 0.8706
+VGG11 - Train Loss: 0.5432, Train Acc: 0.8040
+VGG11 - Val Loss: 0.4596, Val Acc: 0.8433
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5772, Train Acc: 0.8114
+GoogLeNet - Val Loss: 0.5015, Val Acc: 0.8426
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5093, Train Acc: 0.8233
+AlexNet - Val Loss: 0.4425, Val Acc: 0.8433
+DenseNet121 - Train Loss: 0.3935, Train Acc: 0.8793
+DenseNet121 - Val Loss: 0.3919, Val Acc: 0.8736
+Epoch 4/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.9337, Train Acc: 0.6747
+CustomModel - Val Loss: 0.8491, Val Acc: 0.7053
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3266, Train Acc: 0.8865
+ResNet50 - Val Loss: 0.3346, Val Acc: 0.8864
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5183, Train Acc: 0.8160
+VGG11 - Val Loss: 0.4155, Val Acc: 0.8627
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5438, Train Acc: 0.8233
+GoogLeNet - Val Loss: 0.4708, Val Acc: 0.8530
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4465, Train Acc: 0.8414
+AlexNet - Val Loss: 0.4457, Val Acc: 0.8499
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3348, Train Acc: 0.8997
+DenseNet121 - Val Loss: 0.3327, Val Acc: 0.8913
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.7341, Train Acc: 0.7494
+CustomModel - Val Loss: 0.7663, Val Acc: 0.7546
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3148, Train Acc: 0.8941
+ResNet50 - Val Loss: 0.3091, Val Acc: 0.8943
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5061, Train Acc: 0.8224
+VGG11 - Val Loss: 0.4260, Val Acc: 0.8548
+GoogLeNet - Train Loss: 0.4973, Train Acc: 0.8324
+GoogLeNet - Val Loss: 0.4525, Val Acc: 0.8536
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4153, Train Acc: 0.8552
+AlexNet - Val Loss: 0.4370, Val Acc: 0.8493
+DenseNet121 - Train Loss: 0.3030, Train Acc: 0.9031
+DenseNet121 - Val Loss: 0.3036, Val Acc: 0.8991
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 6/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.5777, Train Acc: 0.8146
+CustomModel - Val Loss: 0.7714, Val Acc: 0.7527
+ResNet50 - Train Loss: 0.2759, Train Acc: 0.9056
+ResNet50 - Val Loss: 0.2835, Val Acc: 0.9077
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4906, Train Acc: 0.8259
+VGG11 - Val Loss: 0.4204, Val Acc: 0.8493
+GoogLeNet - Train Loss: 0.4870, Train Acc: 0.8374
+GoogLeNet - Val Loss: 0.4638, Val Acc: 0.8414
+AlexNet - Train Loss: 0.3952, Train Acc: 0.8591
+AlexNet - Val Loss: 0.4215, Val Acc: 0.8591
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2787, Train Acc: 0.9131
+DenseNet121 - Val Loss: 0.3006, Val Acc: 0.8931
+Epoch 7/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4735, Train Acc: 0.8412
+CustomModel - Val Loss: 0.7527, Val Acc: 0.7704
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2760, Train Acc: 0.9046
+ResNet50 - Val Loss: 0.2800, Val Acc: 0.9028
+VGG11 - Train Loss: 0.4703, Train Acc: 0.8342
+VGG11 - Val Loss: 0.4112, Val Acc: 0.8609
+VGG11 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4653, Train Acc: 0.8397
+GoogLeNet - Val Loss: 0.4188, Val Acc: 0.8603
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3810, Train Acc: 0.8611
+AlexNet - Val Loss: 0.4243, Val Acc: 0.8578
+DenseNet121 - Train Loss: 0.2718, Train Acc: 0.9137
+DenseNet121 - Val Loss: 0.2746, Val Acc: 0.8979
+Epoch 8/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4097, Train Acc: 0.8634
+CustomModel - Val Loss: 0.7096, Val Acc: 0.7898
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2600, Train Acc: 0.9131
+ResNet50 - Val Loss: 0.2901, Val Acc: 0.9040
+GoogLeNet - Train Loss: 0.4446, Train Acc: 0.8525
+GoogLeNet - Val Loss: 0.4018, Val Acc: 0.8730
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3653, Train Acc: 0.8667
+AlexNet - Val Loss: 0.3925, Val Acc: 0.8663
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2541, Train Acc: 0.9169
+DenseNet121 - Val Loss: 0.2988, Val Acc: 0.8961
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+Epoch 9/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3188, Train Acc: 0.8971
+CustomModel - Val Loss: 0.7219, Val Acc: 0.7892
+ResNet50 - Train Loss: 0.2424, Train Acc: 0.9167
+ResNet50 - Val Loss: 0.3037, Val Acc: 0.9022
+ResNet50 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4372, Train Acc: 0.8476
+GoogLeNet - Val Loss: 0.3985, Val Acc: 0.8603
+AlexNet - Train Loss: 0.3638, Train Acc: 0.8692
+AlexNet - Val Loss: 0.3703, Val Acc: 0.8846
+AlexNet - model saved with improved validation accuracy.
+Epoch 10/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2849, Train Acc: 0.9069
+CustomModel - Val Loss: 0.8009, Val Acc: 0.7971
+CustomModel - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4254, Train Acc: 0.8559
+GoogLeNet - Val Loss: 0.3885, Val Acc: 0.8676
+AlexNet - Train Loss: 0.3481, Train Acc: 0.8730
+AlexNet - Val Loss: 0.3985, Val Acc: 0.8706
+Epoch 11/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2653, Train Acc: 0.9154
+CustomModel - Val Loss: 0.8144, Val Acc: 0.7910
+GoogLeNet - Train Loss: 0.4214, Train Acc: 0.8520
+GoogLeNet - Val Loss: 0.3922, Val Acc: 0.8639
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3102, Train Acc: 0.8920
+AlexNet - Val Loss: 0.3782, Val Acc: 0.8882
+AlexNet - model saved with improved validation accuracy.
+Epoch 12/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2107, Train Acc: 0.9309
+CustomModel - Val Loss: 0.8595, Val Acc: 0.7843
+AlexNet - Train Loss: 0.3401, Train Acc: 0.8798
+AlexNet - Val Loss: 0.3647, Val Acc: 0.8846
+Epoch 13/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1849, Train Acc: 0.9380
+CustomModel - Val Loss: 0.8834, Val Acc: 0.7880
+CustomModel model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3062, Train Acc: 0.8938
+AlexNet - Val Loss: 0.3728, Val Acc: 0.8803
+Epoch 14/40
+------------------------------------------------------------
+AlexNet - Train Loss: 0.3148, Train Acc: 0.8828
+AlexNet - Val Loss: 0.4787, Val Acc: 0.8566
+AlexNet model has not improved for 3 epochs. Early stopping.
+
+F1 Score for CustomModel: 0.7812
+F1 Score for ResNet50: 0.9122
+F1 Score for VGG11: 0.8634
+F1 Score for GoogLeNet: 0.8707
+F1 Score for AlexNet: 0.8810
+F1 Score for DenseNet121: 0.9028
+
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.8160, Train Acc: 0.2738
+CustomModel - Val Loss: 1.5246, Val Acc: 0.4016
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.8186, Train Acc: 0.7374
+ResNet50 - Val Loss: 0.4880, Val Acc: 0.8414
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8276, Train Acc: 0.7137
+VGG11 - Val Loss: 0.5367, Val Acc: 0.8165
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0868, Train Acc: 0.6621
+GoogLeNet - Val Loss: 0.6937, Val Acc: 0.8092
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8527, Train Acc: 0.6991
+AlexNet - Val Loss: 0.5970, Val Acc: 0.7959
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.9184, Train Acc: 0.7238
+DenseNet121 - Val Loss: 0.5374, Val Acc: 0.8366
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.4354, Train Acc: 0.4475
+CustomModel - Val Loss: 1.3085, Val Acc: 0.5055
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4428, Train Acc: 0.8605
+ResNet50 - Val Loss: 0.3649, Val Acc: 0.8815
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5843, Train Acc: 0.7971
+VGG11 - Val Loss: 0.4697, Val Acc: 0.8372
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6708, Train Acc: 0.7873
+GoogLeNet - Val Loss: 0.5698, Val Acc: 0.8238
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5666, Train Acc: 0.7974
+AlexNet - Val Loss: 0.5585, Val Acc: 0.8001
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4827, Train Acc: 0.8593
+DenseNet121 - Val Loss: 0.3978, Val Acc: 0.8755
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.2084, Train Acc: 0.5657
+CustomModel - Val Loss: 1.0920, Val Acc: 0.5899
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3675, Train Acc: 0.8856
+ResNet50 - Val Loss: 0.3565, Val Acc: 0.8797
+VGG11 - Train Loss: 0.5502, Train Acc: 0.8026
+VGG11 - Val Loss: 0.4311, Val Acc: 0.8445
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5772, Train Acc: 0.8137
+GoogLeNet - Val Loss: 0.5014, Val Acc: 0.8426
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5037, Train Acc: 0.8204
+AlexNet - Val Loss: 0.4510, Val Acc: 0.8481
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3860, Train Acc: 0.8821
+DenseNet121 - Val Loss: 0.3402, Val Acc: 0.8900
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 4/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.0112, Train Acc: 0.6411
+CustomModel - Val Loss: 0.9931, Val Acc: 0.6403
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3371, Train Acc: 0.8883
+ResNet50 - Val Loss: 0.3167, Val Acc: 0.8894
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5267, Train Acc: 0.8149
+VGG11 - Val Loss: 0.4063, Val Acc: 0.8615
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5331, Train Acc: 0.8294
+GoogLeNet - Val Loss: 0.4562, Val Acc: 0.8597
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4689, Train Acc: 0.8360
+AlexNet - Val Loss: 0.4075, Val Acc: 0.8700
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3357, Train Acc: 0.8948
+DenseNet121 - Val Loss: 0.3052, Val Acc: 0.9010
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.8508, Train Acc: 0.7061
+CustomModel - Val Loss: 0.8893, Val Acc: 0.6859
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3258, Train Acc: 0.8941
+ResNet50 - Val Loss: 0.3084, Val Acc: 0.9010
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4942, Train Acc: 0.8243
+VGG11 - Val Loss: 0.4060, Val Acc: 0.8524
+GoogLeNet - Train Loss: 0.4959, Train Acc: 0.8354
+GoogLeNet - Val Loss: 0.4385, Val Acc: 0.8560
+AlexNet - Train Loss: 0.4152, Train Acc: 0.8503
+AlexNet - Val Loss: 0.4084, Val Acc: 0.8560
+DenseNet121 - Train Loss: 0.3168, Train Acc: 0.9040
+DenseNet121 - Val Loss: 0.2866, Val Acc: 0.9064
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 6/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.6806, Train Acc: 0.7648
+CustomModel - Val Loss: 0.8746, Val Acc: 0.7175
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2935, Train Acc: 0.9008
+ResNet50 - Val Loss: 0.2889, Val Acc: 0.9064
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4961, Train Acc: 0.8243
+VGG11 - Val Loss: 0.4024, Val Acc: 0.8627
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4831, Train Acc: 0.8380
+GoogLeNet - Val Loss: 0.4283, Val Acc: 0.8584
+AlexNet - Train Loss: 0.4003, Train Acc: 0.8607
+AlexNet - Val Loss: 0.4450, Val Acc: 0.8493
+DenseNet121 - Train Loss: 0.2864, Train Acc: 0.9097
+DenseNet121 - Val Loss: 0.2793, Val Acc: 0.9113
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 7/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.5420, Train Acc: 0.8160
+CustomModel - Val Loss: 0.8109, Val Acc: 0.7333
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2819, Train Acc: 0.9062
+ResNet50 - Val Loss: 0.2936, Val Acc: 0.8985
+VGG11 - Train Loss: 0.4749, Train Acc: 0.8280
+VGG11 - Val Loss: 0.3816, Val Acc: 0.8621
+GoogLeNet - Train Loss: 0.4705, Train Acc: 0.8382
+GoogLeNet - Val Loss: 0.4178, Val Acc: 0.8578
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3777, Train Acc: 0.8661
+AlexNet - Val Loss: 0.3949, Val Acc: 0.8736
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2680, Train Acc: 0.9137
+DenseNet121 - Val Loss: 0.2668, Val Acc: 0.9095
+Epoch 8/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4479, Train Acc: 0.8564
+CustomModel - Val Loss: 0.8174, Val Acc: 0.7564
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2620, Train Acc: 0.9114
+ResNet50 - Val Loss: 0.2906, Val Acc: 0.8979
+VGG11 - Train Loss: 0.4872, Train Acc: 0.8234
+VGG11 - Val Loss: 0.3841, Val Acc: 0.8597
+AlexNet - Train Loss: 0.3760, Train Acc: 0.8654
+AlexNet - Val Loss: 0.3716, Val Acc: 0.8797
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2489, Train Acc: 0.9217
+DenseNet121 - Val Loss: 0.2687, Val Acc: 0.9101
+Epoch 9/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3830, Train Acc: 0.8754
+CustomModel - Val Loss: 0.8290, Val Acc: 0.7570
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2579, Train Acc: 0.9125
+ResNet50 - Val Loss: 0.3190, Val Acc: 0.8906
+ResNet50 model has not improved for 3 epochs. Early stopping.
+VGG11 - Train Loss: 0.4334, Train Acc: 0.8429
+VGG11 - Val Loss: 0.3747, Val Acc: 0.8682
+VGG11 - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3621, Train Acc: 0.8664
+AlexNet - Val Loss: 0.3709, Val Acc: 0.8791
+DenseNet121 - Train Loss: 0.2434, Train Acc: 0.9216
+DenseNet121 - Val Loss: 0.2511, Val Acc: 0.9131
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 10/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3306, Train Acc: 0.8953
+CustomModel - Val Loss: 0.9351, Val Acc: 0.7643
+CustomModel - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4520, Train Acc: 0.8383
+VGG11 - Val Loss: 0.3892, Val Acc: 0.8694
+VGG11 - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3443, Train Acc: 0.8787
+AlexNet - Val Loss: 0.3943, Val Acc: 0.8688
+DenseNet121 - Train Loss: 0.2317, Train Acc: 0.9225
+DenseNet121 - Val Loss: 0.2459, Val Acc: 0.9204
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 11/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2955, Train Acc: 0.9043
+CustomModel - Val Loss: 0.8688, Val Acc: 0.7546
+VGG11 - Train Loss: 0.4464, Train Acc: 0.8380
+VGG11 - Val Loss: 0.3596, Val Acc: 0.8773
+VGG11 - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3370, Train Acc: 0.8806
+AlexNet - Val Loss: 0.3572, Val Acc: 0.8858
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2221, Train Acc: 0.9290
+DenseNet121 - Val Loss: 0.2392, Val Acc: 0.9192
+Epoch 12/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2578, Train Acc: 0.9131
+CustomModel - Val Loss: 0.9933, Val Acc: 0.7515
+VGG11 - Train Loss: 0.4435, Train Acc: 0.8450
+VGG11 - Val Loss: 0.3509, Val Acc: 0.8803
+VGG11 - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3338, Train Acc: 0.8813
+AlexNet - Val Loss: 0.3749, Val Acc: 0.8815
+DenseNet121 - Train Loss: 0.2184, Train Acc: 0.9287
+DenseNet121 - Val Loss: 0.2439, Val Acc: 0.9186
+Epoch 13/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2455, Train Acc: 0.9225
+CustomModel - Val Loss: 1.0470, Val Acc: 0.7618
+CustomModel model has not improved for 3 epochs. Early stopping.
+VGG11 - Train Loss: 0.4241, Train Acc: 0.8503
+VGG11 - Val Loss: 0.3594, Val Acc: 0.8748
+AlexNet - Train Loss: 0.3166, Train Acc: 0.8841
+AlexNet - Val Loss: 0.3956, Val Acc: 0.8724
+DenseNet121 - Train Loss: 0.1970, Train Acc: 0.9374
+DenseNet121 - Val Loss: 0.2314, Val Acc: 0.9241
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 14/40
+------------------------------------------------------------
+VGG11 - Train Loss: 0.4549, Train Acc: 0.8373
+VGG11 - Val Loss: 0.3536, Val Acc: 0.8694
+AlexNet - Train Loss: 0.3015, Train Acc: 0.8923
+AlexNet - Val Loss: 0.3649, Val Acc: 0.8821
+AlexNet model has not improved for 3 epochs. Early stopping.
+DenseNet121 - Train Loss: 0.1980, Train Acc: 0.9348
+DenseNet121 - Val Loss: 0.2437, Val Acc: 0.9180
+Epoch 15/40
+------------------------------------------------------------
+VGG11 - Train Loss: 0.4596, Train Acc: 0.8363
+VGG11 - Val Loss: 0.3666, Val Acc: 0.8706
+VGG11 model has not improved for 3 epochs. Early stopping.
+DenseNet121 - Train Loss: 0.1904, Train Acc: 0.9382
+DenseNet121 - Val Loss: 0.2321, Val Acc: 0.9247
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 16/40
+------------------------------------------------------------
+DenseNet121 - Train Loss: 0.1981, Train Acc: 0.9333
+DenseNet121 - Val Loss: 0.2398, Val Acc: 0.9137
+Epoch 17/40
+------------------------------------------------------------
+DenseNet121 - Train Loss: 0.1851, Train Acc: 0.9395
+DenseNet121 - Val Loss: 0.2365, Val Acc: 0.9210
+Epoch 18/40
+------------------------------------------------------------
+DenseNet121 - Train Loss: 0.1850, Train Acc: 0.9397
+DenseNet121 - Val Loss: 0.2381, Val Acc: 0.9210
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+
+F1 Score for CustomModel: 0.7533
+F1 Score for ResNet50: 0.9040
+F1 Score for VGG11: 0.8824
+F1 Score for GoogLeNet: 0.8563
+F1 Score for AlexNet: 0.8829
+F1 Score for DenseNet121: 0.9087
+
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.8706, Train Acc: 0.2538
+CustomModel - Val Loss: 1.6656, Val Acc: 0.4016
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7616, Train Acc: 0.7607
+ResNet50 - Val Loss: 0.4592, Val Acc: 0.8584
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8267, Train Acc: 0.7127
+VGG11 - Val Loss: 0.5583, Val Acc: 0.8056
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0927, Train Acc: 0.6602
+GoogLeNet - Val Loss: 0.7187, Val Acc: 0.7831
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8423, Train Acc: 0.7069
+AlexNet - Val Loss: 0.5479, Val Acc: 0.8196
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.8850, Train Acc: 0.7420
+DenseNet121 - Val Loss: 0.5368, Val Acc: 0.8487
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.4031, Train Acc: 0.4799
+CustomModel - Val Loss: 1.1389, Val Acc: 0.5784
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4214, Train Acc: 0.8678
+ResNet50 - Val Loss: 0.3989, Val Acc: 0.8736
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5839, Train Acc: 0.7950
+VGG11 - Val Loss: 0.4795, Val Acc: 0.8311
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6800, Train Acc: 0.7873
+GoogLeNet - Val Loss: 0.5853, Val Acc: 0.8141
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5831, Train Acc: 0.7971
+AlexNet - Val Loss: 0.4939, Val Acc: 0.8287
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4710, Train Acc: 0.8651
+DenseNet121 - Val Loss: 0.4098, Val Acc: 0.8755
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.1095, Train Acc: 0.6084
+CustomModel - Val Loss: 0.9668, Val Acc: 0.6507
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3648, Train Acc: 0.8789
+ResNet50 - Val Loss: 0.3739, Val Acc: 0.8706
+VGG11 - Train Loss: 0.5511, Train Acc: 0.8053
+VGG11 - Val Loss: 0.4355, Val Acc: 0.8457
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5747, Train Acc: 0.8180
+GoogLeNet - Val Loss: 0.5267, Val Acc: 0.8305
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4934, Train Acc: 0.8236
+AlexNet - Val Loss: 0.4791, Val Acc: 0.8396
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3860, Train Acc: 0.8821
+DenseNet121 - Val Loss: 0.3367, Val Acc: 0.8967
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 4/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.8355, Train Acc: 0.7130
+CustomModel - Val Loss: 0.8881, Val Acc: 0.6993
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3446, Train Acc: 0.8857
+ResNet50 - Val Loss: 0.3437, Val Acc: 0.8852
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5196, Train Acc: 0.8110
+VGG11 - Val Loss: 0.4226, Val Acc: 0.8512
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5328, Train Acc: 0.8303
+GoogLeNet - Val Loss: 0.4969, Val Acc: 0.8414
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4679, Train Acc: 0.8370
+AlexNet - Val Loss: 0.4747, Val Acc: 0.8378
+DenseNet121 - Train Loss: 0.3360, Train Acc: 0.8970
+DenseNet121 - Val Loss: 0.3301, Val Acc: 0.8973
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.5819, Train Acc: 0.8073
+CustomModel - Val Loss: 0.8592, Val Acc: 0.7570
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3037, Train Acc: 0.8977
+ResNet50 - Val Loss: 0.3490, Val Acc: 0.8785
+VGG11 - Train Loss: 0.5005, Train Acc: 0.8262
+VGG11 - Val Loss: 0.4055, Val Acc: 0.8603
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.5020, Train Acc: 0.8359
+GoogLeNet - Val Loss: 0.4742, Val Acc: 0.8420
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4425, Train Acc: 0.8391
+AlexNet - Val Loss: 0.4766, Val Acc: 0.8420
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3130, Train Acc: 0.9012
+DenseNet121 - Val Loss: 0.3032, Val Acc: 0.9010
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 6/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.4205, Train Acc: 0.8657
+CustomModel - Val Loss: 0.8119, Val Acc: 0.7649
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2825, Train Acc: 0.9032
+ResNet50 - Val Loss: 0.3119, Val Acc: 0.8961
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4793, Train Acc: 0.8307
+VGG11 - Val Loss: 0.4106, Val Acc: 0.8469
+GoogLeNet - Train Loss: 0.4685, Train Acc: 0.8398
+GoogLeNet - Val Loss: 0.4555, Val Acc: 0.8445
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3936, Train Acc: 0.8626
+AlexNet - Val Loss: 0.4167, Val Acc: 0.8566
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2832, Train Acc: 0.9084
+DenseNet121 - Val Loss: 0.2751, Val Acc: 0.9028
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 7/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3090, Train Acc: 0.9012
+CustomModel - Val Loss: 0.7981, Val Acc: 0.7758
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2656, Train Acc: 0.9117
+ResNet50 - Val Loss: 0.2988, Val Acc: 0.8985
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4693, Train Acc: 0.8312
+VGG11 - Val Loss: 0.3724, Val Acc: 0.8706
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4627, Train Acc: 0.8417
+GoogLeNet - Val Loss: 0.4537, Val Acc: 0.8420
+AlexNet - Train Loss: 0.3701, Train Acc: 0.8701
+AlexNet - Val Loss: 0.3885, Val Acc: 0.8651
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2735, Train Acc: 0.9111
+DenseNet121 - Val Loss: 0.2625, Val Acc: 0.9040
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 8/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2446, Train Acc: 0.9239
+CustomModel - Val Loss: 0.8057, Val Acc: 0.7934
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2634, Train Acc: 0.9107
+ResNet50 - Val Loss: 0.3153, Val Acc: 0.9004
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4570, Train Acc: 0.8348
+VGG11 - Val Loss: 0.3741, Val Acc: 0.8657
+GoogLeNet - Train Loss: 0.4504, Train Acc: 0.8452
+GoogLeNet - Val Loss: 0.4298, Val Acc: 0.8512
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3668, Train Acc: 0.8699
+AlexNet - Val Loss: 0.3997, Val Acc: 0.8657
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2517, Train Acc: 0.9233
+DenseNet121 - Val Loss: 0.2639, Val Acc: 0.9070
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 9/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2249, Train Acc: 0.9290
+CustomModel - Val Loss: 0.9507, Val Acc: 0.7892
+ResNet50 - Train Loss: 0.2479, Train Acc: 0.9143
+ResNet50 - Val Loss: 0.2875, Val Acc: 0.9077
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4577, Train Acc: 0.8368
+VGG11 - Val Loss: 0.3823, Val Acc: 0.8651
+GoogLeNet - Train Loss: 0.4385, Train Acc: 0.8515
+GoogLeNet - Val Loss: 0.4208, Val Acc: 0.8548
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3577, Train Acc: 0.8716
+AlexNet - Val Loss: 0.4041, Val Acc: 0.8718
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2449, Train Acc: 0.9204
+DenseNet121 - Val Loss: 0.2628, Val Acc: 0.9101
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 10/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2027, Train Acc: 0.9368
+CustomModel - Val Loss: 0.8205, Val Acc: 0.7910
+ResNet50 - Train Loss: 0.2306, Train Acc: 0.9242
+ResNet50 - Val Loss: 0.2874, Val Acc: 0.8985
+VGG11 - Train Loss: 0.4633, Train Acc: 0.8304
+VGG11 - Val Loss: 0.3729, Val Acc: 0.8615
+VGG11 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4383, Train Acc: 0.8497
+GoogLeNet - Val Loss: 0.4161, Val Acc: 0.8609
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3473, Train Acc: 0.8751
+AlexNet - Val Loss: 0.3856, Val Acc: 0.8779
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2333, Train Acc: 0.9219
+DenseNet121 - Val Loss: 0.2580, Val Acc: 0.9131
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 11/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1865, Train Acc: 0.9410
+CustomModel - Val Loss: 0.9794, Val Acc: 0.7746
+CustomModel model has not improved for 3 epochs. Early stopping.
+ResNet50 - Train Loss: 0.2266, Train Acc: 0.9211
+ResNet50 - Val Loss: 0.2900, Val Acc: 0.9052
+GoogLeNet - Train Loss: 0.4263, Train Acc: 0.8526
+GoogLeNet - Val Loss: 0.4349, Val Acc: 0.8457
+AlexNet - Train Loss: 0.3332, Train Acc: 0.8780
+AlexNet - Val Loss: 0.3971, Val Acc: 0.8694
+DenseNet121 - Train Loss: 0.2278, Train Acc: 0.9265
+DenseNet121 - Val Loss: 0.2466, Val Acc: 0.9125
+Epoch 12/40
+------------------------------------------------------------
+ResNet50 - Train Loss: 0.2163, Train Acc: 0.9295
+ResNet50 - Val Loss: 0.3024, Val Acc: 0.8979
+ResNet50 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4142, Train Acc: 0.8584
+GoogLeNet - Val Loss: 0.4011, Val Acc: 0.8560
+AlexNet - Train Loss: 0.3280, Train Acc: 0.8838
+AlexNet - Val Loss: 0.4048, Val Acc: 0.8773
+DenseNet121 - Train Loss: 0.2150, Train Acc: 0.9328
+DenseNet121 - Val Loss: 0.2431, Val Acc: 0.9149
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 13/40
+------------------------------------------------------------
+GoogLeNet - Train Loss: 0.4074, Train Acc: 0.8596
+GoogLeNet - Val Loss: 0.4000, Val Acc: 0.8591
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.3358, Train Acc: 0.8789
+AlexNet - Val Loss: 0.3928, Val Acc: 0.8785
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2018, Train Acc: 0.9347
+DenseNet121 - Val Loss: 0.2608, Val Acc: 0.9077
+Epoch 14/40
+------------------------------------------------------------
+AlexNet - Train Loss: 0.3079, Train Acc: 0.8889
+AlexNet - Val Loss: 0.3651, Val Acc: 0.8876
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2000, Train Acc: 0.9356
+DenseNet121 - Val Loss: 0.2343, Val Acc: 0.9186
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 15/40
+------------------------------------------------------------
+AlexNet - Train Loss: 0.3153, Train Acc: 0.8828
+AlexNet - Val Loss: 0.4543, Val Acc: 0.8578
+DenseNet121 - Train Loss: 0.1909, Train Acc: 0.9382
+DenseNet121 - Val Loss: 0.2426, Val Acc: 0.9113
+Epoch 16/40
+------------------------------------------------------------
+AlexNet - Train Loss: 0.3297, Train Acc: 0.8856
+AlexNet - Val Loss: 0.4174, Val Acc: 0.8724
+DenseNet121 - Train Loss: 0.2053, Train Acc: 0.9322
+DenseNet121 - Val Loss: 0.2598, Val Acc: 0.9064
+Epoch 17/40
+------------------------------------------------------------
+AlexNet - Train Loss: 0.3197, Train Acc: 0.8842
+AlexNet - Val Loss: 0.3730, Val Acc: 0.8870
+AlexNet model has not improved for 3 epochs. Early stopping.
+DenseNet121 - Train Loss: 0.1889, Train Acc: 0.9374
+DenseNet121 - Val Loss: 0.2493, Val Acc: 0.9137
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+
+F1 Score for CustomModel: 0.7742
+F1 Score for ResNet50: 0.9143
+F1 Score for VGG11: 0.8753
+F1 Score for GoogLeNet: 0.8738
+F1 Score for AlexNet: 0.8824
+F1 Score for DenseNet121: 0.9139
+
+------------------------------------------------------------------------------------------------------------------------
+Epoch 1/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.7546, Train Acc: 0.3094
+CustomModel - Val Loss: 1.4165, Val Acc: 0.4563
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.7526, Train Acc: 0.7622
+ResNet50 - Val Loss: 0.4317, Val Acc: 0.8670
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.8273, Train Acc: 0.7119
+VGG11 - Val Loss: 0.5492, Val Acc: 0.8123
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 1.0689, Train Acc: 0.6721
+GoogLeNet - Val Loss: 0.6722, Val Acc: 0.8092
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.8363, Train Acc: 0.7045
+AlexNet - Val Loss: 0.5734, Val Acc: 0.7922
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.9013, Train Acc: 0.7259
+DenseNet121 - Val Loss: 0.4931, Val Acc: 0.8742
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 2/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.3713, Train Acc: 0.4806
+CustomModel - Val Loss: 1.1876, Val Acc: 0.5796
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.4356, Train Acc: 0.8578
+ResNet50 - Val Loss: 0.3503, Val Acc: 0.8840
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5995, Train Acc: 0.7862
+VGG11 - Val Loss: 0.4678, Val Acc: 0.8463
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.6678, Train Acc: 0.7883
+GoogLeNet - Val Loss: 0.5517, Val Acc: 0.8317
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5798, Train Acc: 0.7973
+AlexNet - Val Loss: 0.5097, Val Acc: 0.8177
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.4809, Train Acc: 0.8567
+DenseNet121 - Val Loss: 0.3801, Val Acc: 0.8876
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 3/40
+------------------------------------------------------------
+CustomModel - Train Loss: 1.1255, Train Acc: 0.5990
+CustomModel - Val Loss: 0.9913, Val Acc: 0.6574
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3763, Train Acc: 0.8749
+ResNet50 - Val Loss: 0.3433, Val Acc: 0.8767
+VGG11 - Train Loss: 0.5444, Train Acc: 0.8031
+VGG11 - Val Loss: 0.4417, Val Acc: 0.8451
+GoogLeNet - Train Loss: 0.5837, Train Acc: 0.8084
+GoogLeNet - Val Loss: 0.4784, Val Acc: 0.8512
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.5053, Train Acc: 0.8201
+AlexNet - Val Loss: 0.4547, Val Acc: 0.8475
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3801, Train Acc: 0.8877
+DenseNet121 - Val Loss: 0.3440, Val Acc: 0.9004
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 4/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.9403, Train Acc: 0.6766
+CustomModel - Val Loss: 0.8985, Val Acc: 0.6920
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3335, Train Acc: 0.8883
+ResNet50 - Val Loss: 0.3096, Val Acc: 0.8961
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.5303, Train Acc: 0.8117
+VGG11 - Val Loss: 0.4445, Val Acc: 0.8439
+GoogLeNet - Train Loss: 0.5276, Train Acc: 0.8243
+GoogLeNet - Val Loss: 0.4492, Val Acc: 0.8512
+AlexNet - Train Loss: 0.4530, Train Acc: 0.8441
+AlexNet - Val Loss: 0.4511, Val Acc: 0.8445
+DenseNet121 - Train Loss: 0.3430, Train Acc: 0.8982
+DenseNet121 - Val Loss: 0.2975, Val Acc: 0.9064
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 5/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.7654, Train Acc: 0.7348
+CustomModel - Val Loss: 0.8526, Val Acc: 0.7120
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.3078, Train Acc: 0.8938
+ResNet50 - Val Loss: 0.2806, Val Acc: 0.9034
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4814, Train Acc: 0.8257
+VGG11 - Val Loss: 0.4037, Val Acc: 0.8639
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4956, Train Acc: 0.8342
+GoogLeNet - Val Loss: 0.4308, Val Acc: 0.8615
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.4141, Train Acc: 0.8531
+AlexNet - Val Loss: 0.4420, Val Acc: 0.8542
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.3055, Train Acc: 0.9041
+DenseNet121 - Val Loss: 0.2912, Val Acc: 0.9077
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 6/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.6279, Train Acc: 0.7883
+CustomModel - Val Loss: 0.8811, Val Acc: 0.7315
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2867, Train Acc: 0.9052
+ResNet50 - Val Loss: 0.2816, Val Acc: 0.8973
+VGG11 - Train Loss: 0.4707, Train Acc: 0.8307
+VGG11 - Val Loss: 0.4072, Val Acc: 0.8584
+GoogLeNet - Train Loss: 0.4788, Train Acc: 0.8374
+GoogLeNet - Val Loss: 0.4150, Val Acc: 0.8670
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3978, Train Acc: 0.8564
+AlexNet - Val Loss: 0.4209, Val Acc: 0.8591
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2851, Train Acc: 0.9088
+DenseNet121 - Val Loss: 0.2701, Val Acc: 0.9149
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 7/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.5258, Train Acc: 0.8262
+CustomModel - Val Loss: 0.8158, Val Acc: 0.7467
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2659, Train Acc: 0.9111
+ResNet50 - Val Loss: 0.2968, Val Acc: 0.8906
+VGG11 - Train Loss: 0.4746, Train Acc: 0.8324
+VGG11 - Val Loss: 0.4107, Val Acc: 0.8542
+GoogLeNet - Train Loss: 0.4641, Train Acc: 0.8398
+GoogLeNet - Val Loss: 0.4186, Val Acc: 0.8651
+AlexNet - Train Loss: 0.3713, Train Acc: 0.8649
+AlexNet - Val Loss: 0.4108, Val Acc: 0.8700
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2670, Train Acc: 0.9125
+DenseNet121 - Val Loss: 0.2725, Val Acc: 0.9119
+Epoch 8/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3984, Train Acc: 0.8672
+CustomModel - Val Loss: 0.8404, Val Acc: 0.7594
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2656, Train Acc: 0.9116
+ResNet50 - Val Loss: 0.2659, Val Acc: 0.9046
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4629, Train Acc: 0.8325
+VGG11 - Val Loss: 0.3729, Val Acc: 0.8736
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4417, Train Acc: 0.8484
+GoogLeNet - Val Loss: 0.4075, Val Acc: 0.8566
+AlexNet - Train Loss: 0.3614, Train Acc: 0.8698
+AlexNet - Val Loss: 0.4480, Val Acc: 0.8426
+DenseNet121 - Train Loss: 0.2533, Train Acc: 0.9211
+DenseNet121 - Val Loss: 0.2588, Val Acc: 0.9119
+Epoch 9/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.3509, Train Acc: 0.8842
+CustomModel - Val Loss: 0.8632, Val Acc: 0.7625
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2615, Train Acc: 0.9094
+ResNet50 - Val Loss: 0.2619, Val Acc: 0.9113
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4685, Train Acc: 0.8383
+VGG11 - Val Loss: 0.3609, Val Acc: 0.8761
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4356, Train Acc: 0.8462
+GoogLeNet - Val Loss: 0.3900, Val Acc: 0.8682
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3388, Train Acc: 0.8812
+AlexNet - Val Loss: 0.4110, Val Acc: 0.8718
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2432, Train Acc: 0.9179
+DenseNet121 - Val Loss: 0.2483, Val Acc: 0.9174
+DenseNet121 - model saved with improved validation accuracy.
+Epoch 10/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2733, Train Acc: 0.9145
+CustomModel - Val Loss: 0.8415, Val Acc: 0.7789
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2459, Train Acc: 0.9173
+ResNet50 - Val Loss: 0.2565, Val Acc: 0.9107
+VGG11 - Train Loss: 0.4567, Train Acc: 0.8351
+VGG11 - Val Loss: 0.3543, Val Acc: 0.8797
+VGG11 - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.4227, Train Acc: 0.8508
+GoogLeNet - Val Loss: 0.3939, Val Acc: 0.8645
+AlexNet - Train Loss: 0.3480, Train Acc: 0.8713
+AlexNet - Val Loss: 0.4107, Val Acc: 0.8682
+DenseNet121 - Train Loss: 0.2275, Train Acc: 0.9272
+DenseNet121 - Val Loss: 0.2492, Val Acc: 0.9113
+Epoch 11/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2574, Train Acc: 0.9161
+CustomModel - Val Loss: 0.8048, Val Acc: 0.7825
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2548, Train Acc: 0.9088
+ResNet50 - Val Loss: 0.2396, Val Acc: 0.9162
+ResNet50 - model saved with improved validation accuracy.
+VGG11 - Train Loss: 0.4386, Train Acc: 0.8426
+VGG11 - Val Loss: 0.3766, Val Acc: 0.8724
+GoogLeNet - Train Loss: 0.4254, Train Acc: 0.8544
+GoogLeNet - Val Loss: 0.3713, Val Acc: 0.8736
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3219, Train Acc: 0.8842
+AlexNet - Val Loss: 0.4067, Val Acc: 0.8742
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2165, Train Acc: 0.9295
+DenseNet121 - Val Loss: 0.2479, Val Acc: 0.9113
+Epoch 12/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2191, Train Acc: 0.9324
+CustomModel - Val Loss: 0.8723, Val Acc: 0.7819
+ResNet50 - Train Loss: 0.2294, Train Acc: 0.9201
+ResNet50 - Val Loss: 0.2779, Val Acc: 0.8998
+VGG11 - Train Loss: 0.4596, Train Acc: 0.8382
+VGG11 - Val Loss: 0.3734, Val Acc: 0.8657
+GoogLeNet - Train Loss: 0.4140, Train Acc: 0.8593
+GoogLeNet - Val Loss: 0.3805, Val Acc: 0.8761
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3376, Train Acc: 0.8792
+AlexNet - Val Loss: 0.3902, Val Acc: 0.8755
+AlexNet - model saved with improved validation accuracy.
+DenseNet121 - Train Loss: 0.2212, Train Acc: 0.9295
+DenseNet121 - Val Loss: 0.2462, Val Acc: 0.9162
+DenseNet121 model has not improved for 3 epochs. Early stopping.
+Epoch 13/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.2507, Train Acc: 0.9216
+CustomModel - Val Loss: 0.8605, Val Acc: 0.7892
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2359, Train Acc: 0.9141
+ResNet50 - Val Loss: 0.2629, Val Acc: 0.9077
+VGG11 - Train Loss: 0.4596, Train Acc: 0.8385
+VGG11 - Val Loss: 0.3652, Val Acc: 0.8791
+VGG11 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4017, Train Acc: 0.8570
+GoogLeNet - Val Loss: 0.3725, Val Acc: 0.8767
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3105, Train Acc: 0.8921
+AlexNet - Val Loss: 0.3821, Val Acc: 0.8767
+AlexNet - model saved with improved validation accuracy.
+Epoch 14/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1809, Train Acc: 0.9436
+CustomModel - Val Loss: 0.9522, Val Acc: 0.7947
+CustomModel - model saved with improved validation accuracy.
+ResNet50 - Train Loss: 0.2255, Train Acc: 0.9228
+ResNet50 - Val Loss: 0.2492, Val Acc: 0.9113
+ResNet50 model has not improved for 3 epochs. Early stopping.
+GoogLeNet - Train Loss: 0.4098, Train Acc: 0.8564
+GoogLeNet - Val Loss: 0.3760, Val Acc: 0.8779
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3028, Train Acc: 0.8924
+AlexNet - Val Loss: 0.3727, Val Acc: 0.8852
+AlexNet - model saved with improved validation accuracy.
+Epoch 15/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1631, Train Acc: 0.9438
+CustomModel - Val Loss: 0.9942, Val Acc: 0.7886
+GoogLeNet - Train Loss: 0.4032, Train Acc: 0.8555
+GoogLeNet - Val Loss: 0.3605, Val Acc: 0.8797
+GoogLeNet - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3175, Train Acc: 0.8877
+AlexNet - Val Loss: 0.3910, Val Acc: 0.8791
+Epoch 16/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1476, Train Acc: 0.9537
+CustomModel - Val Loss: 0.9817, Val Acc: 0.7983
+CustomModel - model saved with improved validation accuracy.
+GoogLeNet - Train Loss: 0.3936, Train Acc: 0.8596
+GoogLeNet - Val Loss: 0.3565, Val Acc: 0.8742
+AlexNet - Train Loss: 0.2956, Train Acc: 0.8933
+AlexNet - Val Loss: 0.4106, Val Acc: 0.8779
+Epoch 17/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1687, Train Acc: 0.9458
+CustomModel - Val Loss: 0.8658, Val Acc: 0.7934
+GoogLeNet - Train Loss: 0.3973, Train Acc: 0.8617
+GoogLeNet - Val Loss: 0.3591, Val Acc: 0.8755
+AlexNet - Train Loss: 0.3176, Train Acc: 0.8859
+AlexNet - Val Loss: 0.4033, Val Acc: 0.8876
+AlexNet - model saved with improved validation accuracy.
+Epoch 18/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1325, Train Acc: 0.9609
+CustomModel - Val Loss: 0.9840, Val Acc: 0.7795
+GoogLeNet - Train Loss: 0.3947, Train Acc: 0.8602
+GoogLeNet - Val Loss: 0.3615, Val Acc: 0.8755
+GoogLeNet model has not improved for 3 epochs. Early stopping.
+AlexNet - Train Loss: 0.2983, Train Acc: 0.8918
+AlexNet - Val Loss: 0.3919, Val Acc: 0.8852
+Epoch 19/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1354, Train Acc: 0.9579
+CustomModel - Val Loss: 0.9671, Val Acc: 0.8032
+CustomModel - model saved with improved validation accuracy.
+AlexNet - Train Loss: 0.3014, Train Acc: 0.8933
+AlexNet - Val Loss: 0.4062, Val Acc: 0.8815
+Epoch 20/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1330, Train Acc: 0.9596
+CustomModel - Val Loss: 1.0460, Val Acc: 0.7740
+AlexNet - Train Loss: 0.2850, Train Acc: 0.8962
+AlexNet - Val Loss: 0.4029, Val Acc: 0.8864
+AlexNet model has not improved for 3 epochs. Early stopping.
+Epoch 21/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1319, Train Acc: 0.9602
+CustomModel - Val Loss: 0.9509, Val Acc: 0.7989
+Epoch 22/40
+------------------------------------------------------------
+CustomModel - Train Loss: 0.1398, Train Acc: 0.9555
+CustomModel - Val Loss: 0.9941, Val Acc: 0.7916
+CustomModel model has not improved for 3 epochs. Early stopping.
+
+F1 Score for CustomModel: 0.7756
+F1 Score for ResNet50: 0.9184
+F1 Score for VGG11: 0.8893
+F1 Score for GoogLeNet: 0.8813
+F1 Score for AlexNet: 0.8691
+F1 Score for DenseNet121: 0.9048
